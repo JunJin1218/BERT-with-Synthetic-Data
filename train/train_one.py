@@ -1,0 +1,1 @@
+# 여기서는 BERT 모델을 불러와서 (base든 large든... config로 설정)
