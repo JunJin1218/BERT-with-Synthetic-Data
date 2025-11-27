@@ -136,7 +136,7 @@ def main(cfg: DictConfig):
 
     # 5. TrainingArguments 설정
     training_args = TrainingArguments(
-        output_dir="./bert-superglue-cb",
+        output_dir="./outputs/bert-superglue-cb",
         eval_strategy="epoch",     # 매 epoch마다 eval
         save_strategy="epoch",
         learning_rate=2e-5,
@@ -165,8 +165,8 @@ def main(cfg: DictConfig):
     trainer.train()
 
     # 8. 최종 모델 / 토크나이저 저장
-    trainer.save_model("./bert-superglue-cb")
-    tokenizer.save_pretrained("./bert-superglue-cb")
+    trainer.save_model("./models/bert-superglue-cb")
+    tokenizer.save_pretrained("./models/bert-superglue-cb")
 
     # 9. Validation 평가
     val_results = trainer.evaluate(encoded_datasets["validation"])
