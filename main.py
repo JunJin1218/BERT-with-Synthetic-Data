@@ -2,6 +2,7 @@
 import subprocess
 from pathlib import Path
 from datetime import datetime
+from collections import deque
 
 CONFIG_DIR = Path("train/configs")
 TRAIN_ENTRY = Path("train.train_one")  # 또는 모듈로 실행하려면 '-m', 'train.train_one' 사용
@@ -25,40 +26,48 @@ def run_one(config_path: Path):
     print(f"      log   : {log_file}")
     print("=" * 80)
 
-    # uv로 실행 (권장). 모듈 방식으로 실행하고 싶으면 아래 주석 해제
     cmd = [
         "uv", "run", "--extra", "cu124",
         "python", "-m", str(TRAIN_ENTRY),
         "--config-name", config_name,
     ]
 
-    # 모듈로 실행: cmd = ["uv","run","--extra","cu124","python","-m","train.train_one","--config-path",str(CONFIG_DIR),"--config-name",config_name]
+    last_lines = deque(maxlen=10)
 
-    # 부모 프로세스의 CWD 기준으로 실행.
-    # 자식은 Hydra 때문에 작업 디렉토리가 바뀔 수 있으니, 자식 코드에서 to_absolute_path로 경로 고정 추천.
     with log_file.open("w", encoding="utf-8") as lf:
         try:
-            cp = subprocess.run(
+            # 실시간 스트리밍용 Popen
+            proc = subprocess.Popen(
                 cmd,
                 stdout=subprocess.PIPE,
                 stderr=subprocess.STDOUT,
                 text=True,
-                timeout=TIMEOUT,
-                check=False,
             )
+
+            # 한 줄씩 읽어서 바로 파일/콘솔로 출력
+            assert proc.stdout is not None
+            for line in proc.stdout:
+                lf.write(line)
+                lf.flush()          # 실시간으로 파일에 찍히게
+                # print(line, end="") # 콘솔에도 바로바로 출력
+                last_lines.append(line.rstrip("\n"))
+
+            # 프로세스 종료 코드
+            rc = proc.wait(timeout=TIMEOUT) if TIMEOUT is not None else proc.wait()
+
         except subprocess.TimeoutExpired as e:
             lf.write(f"[TIMEOUT] after {e.timeout} seconds\n")
+            print(f"[TIMEOUT] {config_name} after {e.timeout} seconds")
             return config_name, -1, f"[TIMEOUT] {config_name}"
 
-        # 로그 파일 저장
-        lf.write(cp.stdout if cp.stdout else "")
-        lf.write(f"\n[RETURN CODE] {cp.returncode}\n")
+        lf.write(f"\n[RETURN CODE] {rc}\n")
 
-    # 콘솔 요약
-    tail = "\n".join((cp.stdout or "").splitlines()[-10:])  # 마지막 10줄만 콘솔 요약
+    # 마지막 10줄만 요약해서 다시 보여주고 싶으면:
+    tail = "\n".join(last_lines)
     print(tail)
-    print(f"[RESULT] {config_name} rc={cp.returncode}")
-    return config_name, cp.returncode, None
+    print(f"[RESULT] {config_name} rc={rc}")
+    return config_name, rc, None
+
 
 def main():
     LOG_DIR.mkdir(parents=True, exist_ok=True)
