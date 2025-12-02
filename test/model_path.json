@@ -1,0 +1,12 @@
+{
+    "AX-b": "models/super_glue-rte/original",
+    "AX-g": "models/super_glue-rte/original",
+    "BoolQ": "models/super_glue-boolq/original",
+    "CB": "models/super_glue-cb/original/20251202_021328",
+    "COPA": "models/super_glue-copa/original",
+    "MultiRC": "models/super_glue-multirc/original",
+    "ReCoRD": "models/super_glue-record/original",
+    "RTE": "models/super_glue-rte/original",
+    "WiC": "models/super_glue-wic/original",
+    "WSC": "models/super_glue-wsc/original"
+}

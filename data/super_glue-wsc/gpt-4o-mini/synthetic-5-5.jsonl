@@ -1,0 +1,555 @@
+{"text": "Julia loves her dog, and she takes it for walks every morning. It enjoys exploring the park.", "span1_text": "she", "span2_text": "Julia", "label": 1}
+{"text": "When Thomas baked a cake, his sister helped mix the ingredients. She wanted it to be perfect for the party.", "span1_text": "it", "span2_text": "the cake", "label": 1}
+{"text": "The cat chased the mouse around the garden. He was quick to escape from trouble.", "span1_text": "He", "span2_text": "the mouse", "label": 0}
+{"text": "Lisa bought some books from the store and left them on the table. They looked interesting to read.", "span1_text": "They", "span2_text": "the books", "label": 1}
+{"text": "During the concert, both players gave it their all, and the crowd loved them. They played beautifully together all night.", "span1_text": "They", "span2_text": "both players", "label": 1}
+{"text": "Laura helped her brother fix the car, and he was extremely grateful for her assistance.", "span1_text": "he", "span2_text": "brother", "label": 1}
+{"text": "During the meeting, Jessica spoke about the project, but it was Ryan who had the best ideas to share.", "span1_text": "it", "span2_text": "the project", "label": 0}
+{"text": "After the storm, the neighbors noticed their gardens were ruined, and they felt very disappointed.", "span1_text": "they", "span2_text": "the neighbors", "label": 1}
+{"text": "When the dog barked loudly, Sarah thought it was disturbing, but her roommate didn't mind.", "span1_text": "it", "span2_text": "the dog", "label": 1}
+{"text": "Alex told Jordan that the book was a must-read, yet he never picked it up himself.", "span1_text": "he", "span2_text": "Alex", "label": 0}
+{"text": "The cat chased the mouse, but it escaped under the sofa.", "span1_text": "it", "span2_text": "the mouse", "label": 1}
+{"text": "During the concert, the band played their greatest hits and the audience loved them.", "span1_text": "them", "span2_text": "the band", "label": 1}
+{"text": "After the game, both Joe and Mark were tired; he could barely stand up.", "span1_text": "he", "span2_text": "Mark", "label": 0}
+{"text": "The teacher gave the students a test, and many of them struggled to finish it on time.", "span1_text": "them", "span2_text": "the students", "label": 1}
+{"text": "Lucy baked a cake for Tom, but he didn't seem to enjoy it at all.", "span1_text": "he", "span2_text": "Tom", "label": 1}
+{"text": "When Sarah saw her friend struggle with the puzzle, she offered her assistance, hoping it would help her.", "span1_text": "she", "span2_text": "her friend", "label": 1}
+{"text": "The cat chased the mouse around the house, but it managed to escape through a tiny hole.", "span1_text": "it", "span2_text": "the mouse", "label": 1}
+{"text": "After Lisa finished reading her book, she gave it to John, who had been waiting for it.", "span1_text": "it", "span2_text": "the book", "label": 1}
+{"text": "Tommy decided to join the baseball team because they were short on players; he was excited about it.", "span1_text": "they", "span2_text": "the baseball team", "label": 1}
+{"text": "When the teacher asked the students about their homework, she was surprised by their varied responses.", "span1_text": "she", "span2_text": "the teacher", "label": 1}
+{"text": "The cat chased the mouse until it darted under the couch, but the cat wasn't done yet.", "span1_text": "the cat", "span2_text": "it", "label": 1}
+{"text": "After the meeting, John and Michael had a conversation, and he shared his thoughts on the project.", "span1_text": "he", "span2_text": "Michael", "label": 1}
+{"text": "Emily was reading a book when she noticed that her coffee had gone cold, so she warmed it up.", "span1_text": "her", "span2_text": "Emily", "label": 1}
+{"text": "The chef presented his dish to the judges, but they had differing opinions on the flavor.", "span1_text": "the judges", "span2_text": "they", "label": 1}
+{"text": "The dog wagged its tail when the man called it over, and he gave it a treat.", "span1_text": "he", "span2_text": "the man", "label": 1}
+{"text": "When the teacher handed out the tests, she noticed that several students had forgotten to bring their pencils.", "span1_text": "she", "span2_text": "the teacher", "label": 1}
+{"text": "The cat watched the bird closely as it flew above the tree, making the cat twitch with excitement.", "span1_text": "it", "span2_text": "the bird", "label": 1}
+{"text": "Jessica thinks that her sister is always late, but she herself is never on time.", "span1_text": "she", "span2_text": "her sister", "label": 0}
+{"text": "The dog barked at the stranger until it realized they were not a threat.", "span1_text": "it", "span2_text": "the dog", "label": 1}
+{"text": "The sweater was so warm that I let my friend try it on on a chilly day.", "span1_text": "it", "span2_text": "the sweater", "label": 1}
+{"text": "Jessica went to the store, but it was closed when she arrived. Frustrated, she decided to go back home instead, where her favorite snack was waiting for her.", "span1_text": "she", "span2_text": "Jessica", "label": 1}
+{"text": "The dog fetched the ball eagerly, bringing it back to his owner with a wagging tail. The owner praised him for his good behavior and threw the ball again.", "span1_text": "him", "span2_text": "the dog", "label": 1}
+{"text": "After debating for hours, the committee finally voted on the proposal. It was a unanimous decision that everyone was pleased about, showing their support for the new initiative.", "span1_text": "it", "span2_text": "the proposal", "label": 1}
+{"text": "When Maria found the kitten, it was hiding behind a bush. She gently coaxed it out and took it home to care for it until she could find a permanent family.", "span1_text": "it", "span2_text": "the kitten", "label": 1}
+{"text": "The book on the shelf was dusty and neglected. When I picked it up, I realized it had been years since anyone had read it or even thought about its story.", "span1_text": "it", "span2_text": "the book", "label": 1}
+{"text": "When the dog chased the ball, it ran around the yard happily.", "span1_text": "it", "span2_text": "the dog", "label": 1}
+{"text": "Emily offered Sarah a ride to the concert, but she declined the invitation.", "span1_text": "she", "span2_text": "Sarah", "label": 0}
+{"text": "After the storm, the tree had fallen and blocked the road. It needed to be removed.", "span1_text": "It", "span2_text": "the tree", "label": 1}
+{"text": "Tom and his cousin Ben were playing video games, but he lost interest quickly.", "span1_text": "he", "span2_text": "Ben", "label": 0}
+{"text": "The professor invited the students to his lecture, but they were too busy studying for exams.", "span1_text": "they", "span2_text": "the students", "label": 1}
+{"text": "The chef prepared a stunning meal that impressed the critics, and they were eager to write reviews.", "span1_text": "they", "span2_text": "the critics", "label": 1}
+{"text": "When Sarah arrived at the party, she realized that John was already there with his friends.", "span1_text": "she", "span2_text": "Sarah", "label": 1}
+{"text": "The cat chased the mouse across the yard, but it quickly found a hole to hide in.", "span1_text": "it", "span2_text": "the mouse", "label": 1}
+{"text": "After the debate, the audience applauded the speakers, but they quickly left the auditorium after.", "span1_text": "they", "span2_text": "the speakers", "label": 0}
+{"text": "Max loves to ride his bike, and his brother also enjoys biking after school.", "span1_text": "his", "span2_text": "Max", "label": 1}
+{"text": "Alice wanted to bake a cake because she had extra ingredients.", "span1_text": "she", "span2_text": "Alice", "label": 1}
+{"text": "The dog chased the cat until it found a place to hide.", "span1_text": "it", "span2_text": "the cat", "label": 1}
+{"text": "Jordan and Taylor agreed to split the bill, but he was surprised at the total.", "span1_text": "he", "span2_text": "Taylor", "label": 0}
+{"text": "The teacher gave the student extra credit when he completed the project early.", "span1_text": "he", "span2_text": "the student", "label": 1}
+{"text": "When the concert started, the band looked at the crowd and they felt excited.", "span1_text": "they", "span2_text": "the band", "label": 1}
+{"text": "Kevin decided to lend Anna his book because she had been wanting to read it for months.", "span1_text": "she", "span2_text": "Anna", "label": 1}
+{"text": "The dog chased the cat until it ran up the tree.", "span1_text": "it", "span2_text": "the cat", "label": 0}
+{"text": "Maria baked a cake for her sister's birthday, and she was excited to taste it.", "span1_text": "she", "span2_text": "her sister", "label": 0}
+{"text": "Paul and Mike went fishing, and he caught the biggest trout of the day.", "span1_text": "he", "span2_text": "Mike", "label": 1}
+{"text": "The committee was pleased with their decision after the meeting.", "span1_text": "their", "span2_text": "The committee", "label": 1}
+{"text": "During the race, Mark pushed himself to the limit because he wanted to win. His determination paid off as he crossed the finish line first.", "span1_text": "he", "span2_text": "Mark", "label": 1}
+{"text": "The teacher promised to review the test scores with the class, but they seemed uninterested. In the end, she decided to send them home for the weekend instead.", "span1_text": "they", "span2_text": "the class", "label": 1}
+{"text": "The raccoon rummaged through the garbage, looking for food. It didn't expect to find anything but was surprised by what it discovered.", "span1_text": "It", "span2_text": "the raccoon", "label": 1}
+{"text": "When the chef presented the new dessert, everyone at the table gasped. The dish was beautiful, and it tasted as good as it looked.", "span1_text": "it", "span2_text": "the dish", "label": 1}
+{"text": "The researchers gathered data from many participants. Their findings were published in a prestigious journal, showcasing the importance of the study.", "span1_text": "Their", "span2_text": "the researchers", "label": 1}
+{"text": "The dog chased the cat, but it quickly climbed up a tree to escape.", "span1_text": "it", "span2_text": "the cat", "label": 1}
+{"text": "Julia bought a new dress for her sister, but she ended up wearing it to the party herself.", "span1_text": "she", "span2_text": "her sister", "label": 0}
+{"text": "The teacher handed the students their tests, and they seemed nervous about the results.", "span1_text": "they", "span2_text": "the students", "label": 1}
+{"text": "After the storm, the team checked the roof and realized it needed repairs.", "span1_text": "it", "span2_text": "the roof", "label": 1}
+{"text": "The chef prepared the meal perfectly, but somehow the guests did not enjoy it.", "span1_text": "it", "span2_text": "the meal", "label": 0}
+{"text": "The cat saw a mouse and it quickly ran away.", "span1_text": "it", "span2_text": "a mouse", "label": 0}
+{"text": "Julia gave her friend a gift because she felt generous.", "span1_text": "she", "span2_text": "Julia", "label": 1}
+{"text": "The soccer team celebrated their victory with a party and it was quite lively.", "span1_text": "it", "span2_text": "a party", "label": 1}
+{"text": "Mark invited Lisa to the concert, but she had other plans.", "span1_text": "she", "span2_text": "Lisa", "label": 1}
+{"text": "The bike was stolen from the yard and I reported it to the police.", "span1_text": "it", "span2_text": "the bike", "label": 1}
+{"text": "Jessica realized that the book had fallen off the table, and she quickly picked it up.", "span1_text": "she", "span2_text": "Jessica", "label": 1}
+{"text": "Tom and Jerry were playing outside when it started to rain, so he ran for cover.", "span1_text": "he", "span2_text": "Jerry", "label": 0}
+{"text": "The cat chased the mouse around the garden until it finally caught it.", "span1_text": "it", "span2_text": "the mouse", "label": 1}
+{"text": "Lily baked a cake for her friend, but he didn't show up to celebrate.", "span1_text": "he", "span2_text": "friend", "label": 1}
+{"text": "When the teacher asked for a volunteer, many students raised their hands, but she picked one.", "span1_text": "she", "span2_text": "teacher", "label": 1}
+{"text": "Jessica told Mia that the cookies were hers, but Mia insisted that they were not hers.", "span1_text": "Mia", "span2_text": "they", "label": 0}
+{"text": "The dog chased the cat around the garden, but then it stopped when the owner called.", "span1_text": "it", "span2_text": "the owner", "label": 0}
+{"text": "Liam gave Sarah the book he had borrowed, and she promised to return it soon.", "span1_text": "she", "span2_text": "Sarah", "label": 1}
+{"text": "The teacher recommended that the students complete their assignments early so they could enjoy their weekend.", "span1_text": "they", "span2_text": "the students", "label": 1}
+{"text": "When Alex saw Jordan at the park, he was thrilled to see them playing football together.", "span1_text": "he", "span2_text": "Jordan", "label": 0}
+{"text": "The teacher explained the assignment to the students before they handed it in.", "span1_text": "they", "span2_text": "the students", "label": 1}
+{"text": "After the storm passed, the dog seemed very shaken up by the noise it made.", "span1_text": "it", "span2_text": "the noise", "label": 1}
+{"text": "Jessica wanted to bake a cake, but she realized that the oven was broken.", "span1_text": "she", "span2_text": "Jessica", "label": 1}
+{"text": "The car wouldn't start this morning, but it was fine yesterday.", "span1_text": "it", "span2_text": "the car", "label": 1}
+{"text": "The committee met to discuss the new policy, but their opinions varied widely.", "span1_text": "their", "span2_text": "the committee", "label": 1}
+{"text": "The dog barked loudly and then it ran to the gate excitedly.", "span1_text": "it", "span2_text": "the dog", "label": 1}
+{"text": "Emily baked a cake for her mother, but she forgot to buy candles.", "span1_text": "she", "span2_text": "Emily", "label": 0}
+{"text": "Jack and his brother went fishing, but only he caught a fish.", "span1_text": "he", "span2_text": "Jack", "label": 1}
+{"text": "The teacher praised the student because they had worked hard all semester.", "span1_text": "they", "span2_text": "the student", "label": 1}
+{"text": "The cat climbed the tree, and it looked down with curiosity.", "span1_text": "it", "span2_text": "the cat", "label": 1}
+{"text": "The cat chased the mouse, but it managed to escape under the couch.", "span1_text": "it", "span2_text": "the mouse", "label": 0}
+{"text": "When Lisa finished the painting, it brought her great joy.", "span1_text": "it", "span2_text": "the painting", "label": 1}
+{"text": "The dog barked loudly, and he seemed very proud of himself.", "span1_text": "he", "span2_text": "the dog", "label": 1}
+{"text": "Sara didn’t like the movie, yet she still watched it to please her friend.", "span1_text": "she", "span2_text": "her friend", "label": 0}
+{"text": "The teacher told the students that they would have a test next week.", "span1_text": "they", "span2_text": "the students", "label": 1}
+{"text": "The cat played with the yarn until she got tired and fell asleep on the couch.", "span1_text": "she", "span2_text": "the cat", "label": 1}
+{"text": "The teacher gave the student a project to complete before the deadline, but he did not like it at all.", "span1_text": "he", "span2_text": "the student", "label": 1}
+{"text": "After the storm, the tree lost its leaves, and it looked barren in the yard.", "span1_text": "it", "span2_text": "the tree", "label": 1}
+{"text": "Kathy bought a new bicycle, but it was too big for her to ride comfortably.", "span1_text": "it", "span2_text": "the bicycle", "label": 1}
+{"text": "The dog barked at the mailman as he approached the house, making the owner laugh.", "span1_text": "he", "span2_text": "the mailman", "label": 1}
+{"text": "While Peter was busy at work, his dog kept barking at the door, so he decided to take a break.", "span1_text": "he", "span2_text": "Peter", "label": 1}
+{"text": "Jessica and her sister went to the market. She bought some flowers while they were there.", "span1_text": "She", "span2_text": "her sister", "label": 0}
+{"text": "When Mike discovered that the cake was gone, he was heartbroken and left the party early.", "span1_text": "he", "span2_text": "Mike", "label": 1}
+{"text": "The teacher told the students that their assignments were due tomorrow, but they seemed unbothered by it.", "span1_text": "they", "span2_text": "the students", "label": 1}
+{"text": "Sarah painted a beautiful picture for her gallery. It took her weeks to finish it.", "span1_text": "It", "span2_text": "the picture", "label": 1}
+{"text": "Lisa gave her sister Lisa's old clothes to someone she knew would appreciate them.", "span1_text": "someone", "span2_text": "her sister", "label": 0}
+{"text": "The chef prepared a new dish for the customers, and they loved it immediately.", "span1_text": "they", "span2_text": "the customers", "label": 1}
+{"text": "Alex finished his report before the meeting started, although it took longer than expected.", "span1_text": "it", "span2_text": "his report", "label": 1}
+{"text": "The teacher praised the students for their hard work because they had done their best.", "span1_text": "they", "span2_text": "the students", "label": 1}
+{"text": "Frank decided to bring his umbrella when he heard the forecast, but it was sunny all day.", "span1_text": "it", "span2_text": "the forecast", "label": 0}
+{"text": "At the picnic, Sarah gave Emily her sandwich because she was hungry.", "span1_text": "she", "span2_text": "Emily", "label": 0}
+{"text": "David and his friends were excited for the game, yet he didn't play as well as they expected.", "span1_text": "he", "span2_text": "David", "label": 1}
+{"text": "The chef prepared a meal for the critics, but they were not impressed by it.", "span1_text": "they", "span2_text": "the critics", "label": 1}
+{"text": "When the cat saw the dog, it ran up the tree to escape from him.", "span1_text": "it", "span2_text": "the dog", "label": 0}
+{"text": "Lisa bought a new dress for the party. Everyone wondered if she could really pull it off.", "span1_text": "she", "span2_text": "Lisa", "label": 1}
+{"text": "When the sun set, the children were still playing outside, and they refused to come in until their parents called.", "span1_text": "children", "span2_text": "they", "label": 1}
+{"text": "The teacher told the students that they would have a test next week, but she didn't mention the topics.", "span1_text": "she", "span2_text": "teacher", "label": 1}
+{"text": "Emily baked cupcakes for the party, but her brother didn't enjoy them as he dislikes sweets.", "span1_text": "he", "span2_text": "brother", "label": 1}
+{"text": "After the argument, Lisa was upset, but her friend was more concerned about the outcome of the discussion.", "span1_text": "was", "span2_text": "friend", "label": 0}
+{"text": "The dog barked loudly at the cat, and it climbed up the tree to escape.", "span1_text": "it", "span2_text": "cat", "label": 1}
+{"text": "When Sarah called her friend, she accidentally knocked over her coffee cup.", "span1_text": "she", "span2_text": "Sarah", "label": 1}
+{"text": "The cat chased the mouse while it was hiding under the chair.", "span1_text": "it", "span2_text": "the mouse", "label": 1}
+{"text": "Jack thought the project would be easy, but it turned out to be quite challenging.", "span1_text": "it", "span2_text": "the project", "label": 1}
+{"text": "The flowers in the garden bloomed beautifully, but they needed more sunlight.", "span1_text": "they", "span2_text": "the flowers", "label": 1}
+{"text": "Alex decided to meet with his team, even though they were feeling under the weather.", "span1_text": "they", "span2_text": "his team", "label": 1}
+{"text": "When the teacher explained the assignment, the students were confused because they didn't understand it.", "span1_text": "the students", "span2_text": "they", "label": 1}
+{"text": "Alex talked to Jordan about the game, but he thought it was boring.", "span1_text": "he", "span2_text": "Jordan", "label": 0}
+{"text": "After the match ended, the coach praised the players, saying they had played well.", "span1_text": "they", "span2_text": "the players", "label": 1}
+{"text": "Jessica told Lily that she would help with the project, which made her very grateful.", "span1_text": "she", "span2_text": "Lily", "label": 0}
+{"text": "The cat chased the mouse until it found a safe hiding spot.", "span1_text": "it", "span2_text": "the mouse", "label": 1}
+{"text": "The dog chased the cat until it climbed a tree to escape.", "span1_text": "it", "span2_text": "the cat", "label": 1}
+{"text": "When Sarah baked cookies, she accidentally burned them in the oven.", "span1_text": "them", "span2_text": "cookies", "label": 1}
+{"text": "The chef presented his dish elegantly, but everyone agreed that it was a bit too salty.", "span1_text": "it", "span2_text": "his dish", "label": 1}
+{"text": "During the race, the car spun out of control, causing the driver to lose it completely.", "span1_text": "it", "span2_text": "the driver", "label": 0}
+{"text": "The artist painted a beautiful mural, and it quickly became the highlight of the town's gallery.", "span1_text": "it", "span2_text": "the mural", "label": 1}
+{"text": "The artist painted a beautiful landscape, and it quickly became her most famous work.", "span1_text": "it", "span2_text": "a beautiful landscape", "label": 1}
+{"text": "The cat watched the bird, completely mesmerized by its movements.", "span1_text": "its", "span2_text": "the bird", "label": 1}
+{"text": "Jason and Mike went hiking; he preferred the mountain trail while Jason liked the river path.", "span1_text": "he", "span2_text": "Mike", "label": 1}
+{"text": "The committee decided to approve the new policy, although they expressed some concerns about its implications.", "span1_text": "its", "span2_text": "the new policy", "label": 1}
+{"text": "After the storm, the tree was completely uprooted, leaving it vulnerable to further damage.", "span1_text": "it", "span2_text": "the tree", "label": 1}
+{"text": "The chef praised the waiter for his excellent service, but he felt it was the team that deserved the credit.", "span1_text": "he", "span2_text": "waiter", "label": 0}
+{"text": "Annie bought a dress for Sarah, and she wore it to the party, looking stunning.", "span1_text": "she", "span2_text": "Sarah", "label": 1}
+{"text": "The dog was barking loudly, but it seemed that the neighbor's cat was the one causing the disturbance.", "span1_text": "it", "span2_text": "dog", "label": 0}
+{"text": "Michael told Vincent to pick up the tools, but they were all scattered around the yard.", "span1_text": "they", "span2_text": "tools", "label": 1}
+{"text": "Jessica saw her brother at the park, excited to see him play basketball with his friends.", "span1_text": "him", "span2_text": "brother", "label": 1}
+{"text": "The teacher asked Jamie and Alex to present their project, and they both agreed to work on it together. After finishing their part, they felt proud of their effort.", "span1_text": "they", "span2_text": "Jamie and Alex", "label": 1}
+{"text": "After the long journey, the men arrived at the campsite, exhausted but relieved to have reached their destination. This made them reflect on their trip.", "span1_text": "this", "span2_text": "the campsite", "label": 0}
+{"text": "Sarah baked a cake for the party, and when everyone arrived, she proudly revealed it to the guests. They admired her craftsmanship and eagerly dug in.", "span1_text": "they", "span2_text": "the guests", "label": 1}
+{"text": "The car was parked near the entrance while Jacob went to buy tickets for the movie. Afterward, he returned to find the vehicle missing.", "span1_text": "the vehicle", "span2_text": "the car", "label": 1}
+{"text": "Lily loves to paint, and her mother often encourages her to explore different styles. However, she still enjoys using her favorite colors the most.", "span1_text": "she", "span2_text": "her mother", "label": 0}
+{"text": "The gardener talked to the assistant about the new flowers that he had planted, hoping they would thrive in the sunlight.", "span1_text": "he", "span2_text": "the assistant", "label": 0}
+{"text": "After the meeting, Sarah noticed that the project manager seemed pleased with the results of the campaign, which made him smile.", "span1_text": "him", "span2_text": "the project manager", "label": 1}
+{"text": "During the storm, the family took refuge in their basement as Mr. Johnson secured the windows to protect it from damage.", "span1_text": "it", "span2_text": "the basement", "label": 1}
+{"text": "The teacher was impressed with Sheila's presentation, and although it had some mistakes, she believed they could be easily fixed.", "span1_text": "they", "span2_text": "mistakes", "label": 1}
+{"text": "While at the beach, Laura and her friends built a large sandcastle that they decorated with shells and driftwood they found.", "span1_text": "they", "span2_text": "her friends", "label": 0}
+{"text": "Maria bought a new hat and was excited to wear it to the party. She hoped others would compliment her on it.", "span1_text": "her", "span2_text": "Maria", "label": 1}
+{"text": "The cat chased the mouse around the kitchen until it got tired and took a break on the windowsill.", "span1_text": "it", "span2_text": "the mouse", "label": 0}
+{"text": "After reading the book, Jake recommended it to his friends because he found it so inspiring.", "span1_text": "it", "span2_text": "the book", "label": 1}
+{"text": "Despite their differences, the siblings shared a close bond, which helped them navigate through tough times together.", "span1_text": "them", "span2_text": "the siblings", "label": 1}
+{"text": "The scientist noticed a discrepancy in the data and quickly reported it to his supervisor, believing it was crucial for the experiment.", "span1_text": "it", "span2_text": "the data", "label": 1}
+{"text": "The cat chased the mouse around the house. It seemed very determined to catch it.", "span1_text": "It", "span2_text": "the mouse", "label": 0}
+{"text": "The teacher praised the students for their hard work. They clapped enthusiastically after the announcement.", "span1_text": "They", "span2_text": "the students", "label": 1}
+{"text": "Julia was excited about her promotion at work, so she took her family out to celebrate.", "span1_text": "she", "span2_text": "Julia", "label": 1}
+{"text": "The movie was about two friends who open a bakery. They had no experience but made delicious cakes.", "span1_text": "They", "span2_text": "two friends", "label": 1}
+{"text": "When Maria and Steve went to the beach, she forgot her towel at home.", "span1_text": "she", "span2_text": "Steve", "label": 0}
+{"text": "The kitten played with the ball of yarn until it tumbled off the couch.", "span1_text": "it", "span2_text": "the ball of yarn", "label": 0}
+{"text": "When the teacher entered the classroom, the students hid their phones under their desks and smiled.", "span1_text": "they", "span2_text": "the students", "label": 1}
+{"text": "After the storm passed, the city assessed its damage and began repairs promptly.", "span1_text": "its", "span2_text": "the city", "label": 1}
+{"text": "The chef prepared a wonderful meal, but the guests were too loud for him to enjoy it.", "span1_text": "him", "span2_text": "the guests", "label": 0}
+{"text": "Jonathan borrowed the book from Sarah, hoping that she would give him some feedback.", "span1_text": "he", "span2_text": "Jonathan", "label": 1}
+{"text": "The cake was so delicious that everyone wanted a piece of it.", "span1_text": "the cake", "span2_text": "it", "label": 1}
+{"text": "The cat slept on the couch because it was warm there.", "span1_text": "the couch", "span2_text": "it", "label": 1}
+{"text": "After the meeting, the manager congratulated the team for their hard work, saying they deserved it.", "span1_text": "the team", "span2_text": "they", "label": 1}
+{"text": "The book was on the table, but it had been read already.", "span1_text": "the book", "span2_text": "it", "label": 1}
+{"text": "While Alex prepared the dinner, Sara set the table, and afterwards they enjoyed it together.", "span1_text": "they", "span2_text": "Sara", "label": 0}
+{"text": "The dog barked loudly at the cat because it was trespassing in its territory.", "span1_text": "it", "span2_text": "the cat", "label": 1}
+{"text": "Julia put her book on the shelf, and then she decided to read it.", "span1_text": "it", "span2_text": "the book", "label": 1}
+{"text": "Both the teacher and the student were surprised when they found their grades missing.", "span1_text": "they", "span2_text": "the student", "label": 0}
+{"text": "Tom and Jerry ran into the garden, but it started to rain.", "span1_text": "it", "span2_text": "the garden", "label": 0}
+{"text": "After the storm passed, the family gathered outside to assess the damage and took it seriously.", "span1_text": "it", "span2_text": "the damage", "label": 1}
+{"text": "After the storm passed, the children were eager to go outside and play. They were thrilled to see the sun shining again.", "span1_text": "the children", "span2_text": "They", "label": 1}
+{"text": "Mark was happy to lend his support to the charity event, but it seemed that his friend had other plans. He decided to stay home instead.", "span1_text": "his friend", "span2_text": "He", "label": 0}
+{"text": "Linda found a beautiful dress at the store, but her sister had already marked it down. She quickly decided to buy it anyway.", "span1_text": "her sister", "span2_text": "She", "label": 1}
+{"text": "In the book, the hero embarks on a journey filled with challenges. He learns valuable lessons along the way, which change him forever.", "span1_text": "the hero", "span2_text": "He", "label": 1}
+{"text": "During the meeting, the manager presented his ideas confidently. They later seemed to spark a heated debate among the team members.", "span1_text": "the team members", "span2_text": "They", "label": 0}
+{"text": "The chef finished the meal and served it to the guests that were waiting.", "span1_text": "it", "span2_text": "the meal", "label": 1}
+{"text": "The teacher announced the test results to the students who were concerned about their grades.", "span1_text": "who", "span2_text": "the students", "label": 1}
+{"text": "Jessica bought a new dress and was excited to wear them to the party.", "span1_text": "them", "span2_text": "the dress", "label": 0}
+{"text": "The dog chased the cat until it ran up a tree to escape.", "span1_text": "it", "span2_text": "the cat", "label": 1}
+{"text": "Mark and Susan planned their vacation carefully, but they still forgot some important items.", "span1_text": "they", "span2_text": "Mark and Susan", "label": 1}
+{"text": "Alice quickly finished her project because she was on a deadline.", "span1_text": "she", "span2_text": "Alice", "label": 1}
+{"text": "The cat chased the mouse before it escaped under the couch.", "span1_text": "it", "span2_text": "the mouse", "label": 0}
+{"text": "The teacher told her students that they should study for the exam.", "span1_text": "they", "span2_text": "her students", "label": 1}
+{"text": "When Jack and Mark arrived at the party, they realized their mistake was wearing the same outfit.", "span1_text": "they", "span2_text": "Jack and Mark", "label": 1}
+{"text": "Susan borrowed Tom's pencil, but it was too short for her notes.", "span1_text": "it", "span2_text": "Tom's pencil", "label": 1}
+{"text": "During the meeting, Carla wondered whether John would remember the promise he made about bringing dessert.", "span1_text": "he", "span2_text": "John", "label": 1}
+{"text": "The cat chased the mouse until it ran under the sofa, where it was safe from the predator.", "span1_text": "it", "span2_text": "the mouse", "label": 1}
+{"text": "After the long hike, Lisa and Tom decided that they would be too tired to cook.", "span1_text": "they", "span2_text": "Lisa and Tom", "label": 1}
+{"text": "The conference was a huge success, and the organizers were thrilled about how well it was received.", "span1_text": "it", "span2_text": "the conference", "label": 1}
+{"text": "When Alex saw Jordan sitting alone, he felt compelled to ask her if she needed help with anything.", "span1_text": "he", "span2_text": "Alex", "label": 0}
+{"text": "The cat chased the mouse until it finally caught its prey under the couch.", "span1_text": "it", "span2_text": "the cat", "label": 1}
+{"text": "After Rachel finished her painting, she felt that it was finally complete and ready for display.", "span1_text": "it", "span2_text": "her painting", "label": 1}
+{"text": "When the kids played outside, their parents watched closely to make sure they were safe.", "span1_text": "they", "span2_text": "the kids", "label": 1}
+{"text": "The teacher asked the students to bring their notebooks, but he forgot his at home.", "span1_text": "he", "span2_text": "the teacher", "label": 0}
+{"text": "Jake promised to help Mike with the project, but he didn't show up on time.", "span1_text": "he", "span2_text": "Mike", "label": 0}
+{"text": "Mark found the old bicycle in the garage and he decided to restore it to its former glory.", "span1_text": "he", "span2_text": "Mark", "label": 1}
+{"text": "The dog barked loudly at the stranger, but it quickly calmed down once its owner arrived.", "span1_text": "it", "span2_text": "the dog", "label": 1}
+{"text": "Lisa gave her friend a cupcake, but she forgot to take one for herself.", "span1_text": "she", "span2_text": "Lisa", "label": 1}
+{"text": "After the meeting, the team gathered for lunch, and they shared their thoughts about the project.", "span1_text": "they", "span2_text": "the team", "label": 1}
+{"text": "The artist painted a beautiful landscape that captivated everyone, yet it still hung in a dark room.", "span1_text": "it", "span2_text": "the landscape", "label": 1}
+{"text": "The cat chased the mouse until it ran into the hole.", "span1_text": "the mouse", "span2_text": "it", "label": 1}
+{"text": "When the storm began, the children were afraid because it was loud.", "span1_text": "the storm", "span2_text": "it", "label": 1}
+{"text": "Jake told Sarah that the book was missing, but she thought he meant the report.", "span1_text": "he", "span2_text": "Jake", "label": 1}
+{"text": "The chef prepared a special dish for the guest who loved it very much.", "span1_text": "the dish", "span2_text": "it", "label": 1}
+{"text": "The lawyer spoke with the defendant before they entered the courtroom.", "span1_text": "they", "span2_text": "the defendant", "label": 0}
+{"text": "The chef prepared a special dish for the event, but he was unsure if it would be well received.", "span1_text": "it", "span2_text": "the special dish", "label": 1}
+{"text": "After the dog chased the cat up the tree, it finally decided to come down when the owner called.", "span1_text": "it", "span2_text": "the cat", "label": 1}
+{"text": "Megan bought a new computer for her studies, and she was excited to try it out.", "span1_text": "it", "span2_text": "the new computer", "label": 1}
+{"text": "When the storm hit, the neighbors helped each other, and they were grateful for the support.", "span1_text": "they", "span2_text": "the neighbors", "label": 1}
+{"text": "The teacher handed out the exam papers, but she seemed worried about how the class would perform.", "span1_text": "she", "span2_text": "the teacher", "label": 1}
+{"text": "After the storm passed, the old tree lost its largest branch, but it still stood proud.", "span1_text": "it", "span2_text": "the old tree", "label": 1}
+{"text": "Jessica and her dog Emma went to the park, and she threw the ball for her.", "span1_text": "she", "span2_text": "Jessica", "label": 1}
+{"text": "The professor explained the complex theory to his students, who seemed confused about it.", "span1_text": "it", "span2_text": "the complex theory", "label": 1}
+{"text": "Even though the weather was terrible, the hikers made it to the top; their determination was impressive.", "span1_text": "their", "span2_text": "the hikers", "label": 1}
+{"text": "Mark and Lisa bought a new boat together; it was everything they hoped for.", "span1_text": "it", "span2_text": "the new boat", "label": 1}
+{"text": "Jessica watched her neighbor's dog while it played in the yard.", "span1_text": "it", "span2_text": "the dog", "label": 1}
+{"text": "Tom and Jerry planned to meet at the café, but he was late due to traffic.", "span1_text": "he", "span2_text": "Tom", "label": 1}
+{"text": "During the storm, the old oak tree fell over, and it crushed the fence.", "span1_text": "it", "span2_text": "the oak tree", "label": 1}
+{"text": "The teacher gave her students a surprise quiz, but they were not prepared for it.", "span1_text": "they", "span2_text": "the students", "label": 1}
+{"text": "Emily wanted to buy a new dress for the party, so she searched for one that matched her shoes.", "span1_text": "one", "span2_text": "a new dress", "label": 1}
+{"text": "The cat chased the mouse around the house until it finally caught its prey.", "span1_text": "the cat", "span2_text": "it", "label": 1}
+{"text": "Maria brought her laptop to the meeting because she needed it for her presentation.", "span1_text": "Maria", "span2_text": "she", "label": 1}
+{"text": "The orchestra played beautifully, and the audience really appreciated them for their talent.", "span1_text": "the audience", "span2_text": "them", "label": 0}
+{"text": "The chef prepared the dessert while his sous-chef set the table; they worked well together.", "span1_text": "the sous-chef", "span2_text": "they", "label": 1}
+{"text": "The tall building cast a shadow on the playground where the children played happily.", "span1_text": "the playground", "span2_text": "it", "label": 0}
+{"text": "The cat chased the mouse around the garden, but it managed to escape.", "span1_text": "the mouse", "span2_text": "it", "label": 1}
+{"text": "Both the teacher and the student were excited about the presentation, but he felt nervous.", "span1_text": "the student", "span2_text": "he", "label": 1}
+{"text": "Sam and Alex went to the park. He brought a frisbee.", "span1_text": "Sam", "span2_text": "He", "label": 1}
+{"text": "The committee announced their decision yesterday, but they received backlash from the community.", "span1_text": "the committee", "span2_text": "they", "label": 1}
+{"text": "Jessica saw a film at the theater with her brother, but it wasn't very interesting.", "span1_text": "the film", "span2_text": "it", "label": 1}
+{"text": "Julia loves her cat, and it often waits by the door when she comes home.", "span1_text": "it", "span2_text": "her cat", "label": 1}
+{"text": "The book on the table belongs to Sarah, but she left it at home yesterday.", "span1_text": "she", "span2_text": "Sarah", "label": 1}
+{"text": "The weather is beautiful today, so it makes everyone happy when they go outside.", "span1_text": "it", "span2_text": "the weather", "label": 1}
+{"text": "Tom and Jerry are best friends, and they share everything, even their secrets.", "span1_text": "they", "span2_text": "Tom and Jerry", "label": 1}
+{"text": "The car was missing for days before they finally found it parked near the library.", "span1_text": "they", "span2_text": "the family", "label": 0}
+{"text": "Lily wanted to impress her friends, so she practiced her singing every day. They were all very surprised by her talent.", "span1_text": "They", "span2_text": "her friends", "label": 1}
+{"text": "The engineers completed the project ahead of schedule. They celebrated with a big dinner.", "span1_text": "They", "span2_text": "The engineers", "label": 1}
+{"text": "When Sarah and her sister baked cookies, she accidentally burned the batch. It was disappointing for both of them.", "span1_text": "she", "span2_text": "her sister", "label": 0}
+{"text": "The teacher asked the students to bring their best essays. Many of them turned in the papers early.", "span1_text": "them", "span2_text": "the students", "label": 1}
+{"text": "After the big win, the coach gathered the team to discuss their strategy. He was proud of how they played together.", "span1_text": "He", "span2_text": "the coach", "label": 1}
+{"text": "When Sarah saw Lily wearing the new dress, she complimented it as if it were made just for her.", "span1_text": "she", "span2_text": "Lily", "label": 1}
+{"text": "The cat chased the mouse until it found a hole to escape into.", "span1_text": "it", "span2_text": "the mouse", "label": 1}
+{"text": "John tried to fix the bicycle, but it kept falling apart under his hands.", "span1_text": "it", "span2_text": "the bicycle", "label": 1}
+{"text": "I asked Mary if she wanted to join us, but she said that she was busy with the project.", "span1_text": "she", "span2_text": "Mary", "label": 1}
+{"text": "Emma has a dog and loves him more than anyone else in the family.", "span1_text": "him", "span2_text": "the dog", "label": 1}
+{"text": "After Emily dropped her phone, she quickly picked it up to check if it was still working.", "span1_text": "she", "span2_text": "Emily", "label": 1}
+{"text": "The kittens were playing with a ball of yarn, and one of them got tangled in it.", "span1_text": "one", "span2_text": "the kittens", "label": 1}
+{"text": "The committee debated the issue for hours, yet they couldn't come to a conclusion.", "span1_text": "they", "span2_text": "the committee", "label": 1}
+{"text": "Alex wanted to borrow Sarah's notebook, but he forgot to ask her about it.", "span1_text": "he", "span2_text": "Alex", "label": 0}
+{"text": "The chef had prepared a delicious meal, and it was a huge success at the event.", "span1_text": "it", "span2_text": "the meal", "label": 1}
+{"text": "The cat chased the mouse until it finally caught it under the sofa.", "span1_text": "it", "span2_text": "the mouse", "label": 1}
+{"text": "Jessica saw Rachel and admired her work, but she was too shy to compliment her.", "span1_text": "she", "span2_text": "Jessica", "label": 0}
+{"text": "The teacher told the students that they should submit their assignments by Friday.", "span1_text": "they", "span2_text": "the students", "label": 1}
+{"text": "After the race, John congratulated Mike because he was proud of him.", "span1_text": "he", "span2_text": "Mike", "label": 0}
+{"text": "The flowers were beautiful, and they made the room smell delightful.", "span1_text": "they", "span2_text": "the flowers", "label": 1}
+{"text": "When Maria saw her brother playing outside, she decided to join him in the game.", "span1_text": "she", "span2_text": "Maria", "label": 1}
+{"text": "The cat chased the mouse under the couch, but it quickly hid behind the curtains.", "span1_text": "it", "span2_text": "the mouse", "label": 0}
+{"text": "Emma told Sophie to bring her book, but she forgot it at home.", "span1_text": "she", "span2_text": "Sophie", "label": 0}
+{"text": "Tom and Jerry went fishing together, but Jerry caught the biggest fish of the day.", "span1_text": "the biggest fish", "span2_text": "Jerry", "label": 0}
+{"text": "After the storm, the townsfolk gathered to assess the damage, and they were shocked by the destruction.", "span1_text": "they", "span2_text": "the townsfolk", "label": 1}
+{"text": "The dog and the cat were playing in the backyard. It was a peaceful afternoon for them.", "span1_text": "It", "span2_text": "the cat and the dog", "label": 0}
+{"text": "The teacher asked the student if he understood the assignment. He nodded, indicating that he did.", "span1_text": "He", "span2_text": "the student", "label": 1}
+{"text": "Sarah and her brother decided to bake cookies. They were excited to share them with their friends.", "span1_text": "They", "span2_text": "Sarah and her brother", "label": 1}
+{"text": "Jill was determined to finish her painting. She knew her time was limited, so she worked quickly on it.", "span1_text": "it", "span2_text": "her painting", "label": 1}
+{"text": "The car and the bike collided at the intersection. It was a loud crash that startled the pedestrians.", "span1_text": "It", "span2_text": "the collision", "label": 0}
+{"text": "When Eric finished his painting, he felt proud of it hanging in the gallery.", "span1_text": "he", "span2_text": "Eric", "label": 1}
+{"text": "The book was on the table and the cat decided to nap beside it, which made her comfortable.", "span1_text": "it", "span2_text": "the book", "label": 1}
+{"text": "Samantha and Zoe were planning a trip, but when Zoe backed out, she felt guilty about it.", "span1_text": "she", "span2_text": "Zoe", "label": 1}
+{"text": "The coffee was too hot for Lily, so she placed it on the counter to cool off.", "span1_text": "it", "span2_text": "the coffee", "label": 1}
+{"text": "After the storm passed, the children played outside but did not mind the muddy conditions at all.", "span1_text": "they", "span2_text": "the children", "label": 1}
+{"text": "The chef prepared a beautiful dish for the guests, but it was too spicy for them.", "span1_text": "it", "span2_text": "the beautiful dish", "label": 1}
+{"text": "Jessica offered herfriend a ride, but he declined because he was busy.", "span1_text": "he", "span2_text": "herfriend", "label": 0}
+{"text": "After the storm passed, the villagers quickly repaired the damage to their homes.", "span1_text": "their", "span2_text": "the villagers", "label": 1}
+{"text": "The teacher praised the student for his effort, but she felt he could do better.", "span1_text": "she", "span2_text": "the teacher", "label": 0}
+{"text": "The cat rubbed against the leg of the table, which made it wobble.", "span1_text": "it", "span2_text": "the table", "label": 1}
+{"text": "The teacher praised the student for his excellent work, although she found the grading process exhausting.", "span1_text": "she", "span2_text": "the student", "label": 0}
+{"text": "The cat chased the mouse around the garden, and eventually it caught its prey.", "span1_text": "it", "span2_text": "the cat", "label": 1}
+{"text": "Anna wanted to be the best at ballet, but she realized that practice was what mattered most.", "span1_text": "she", "span2_text": "Anna", "label": 1}
+{"text": "The dog barked at the squirrel, but it ran up the tree.", "span1_text": "it", "span2_text": "the squirrel", "label": 0}
+{"text": "Michael asked Sarah to help him with the project because he was struggling.", "span1_text": "he", "span2_text": "Michael", "label": 1}
+{"text": "After the game, Lisa gave her brother a ride home, but he forgot his bag in the locker.", "span1_text": "he", "span2_text": "brother", "label": 1}
+{"text": "The teacher told the students that their project was due next week, but it seemed too ambitious for them.", "span1_text": "it", "span2_text": "project", "label": 1}
+{"text": "Sam knew that Alex would need help, so he offered to assist with the homework.", "span1_text": "he", "span2_text": "Sam", "label": 0}
+{"text": "The cat chased the mouse around the room, and it eventually hid under the sofa.", "span1_text": "it", "span2_text": "mouse", "label": 1}
+{"text": "Emily found a book on the table, but she couldn't remember where she had left her glasses.", "span1_text": "she", "span2_text": "Emily", "label": 1}
+{"text": "The dog barked loudly at the stranger passing by, but it quickly lost interest when he turned to leave.", "span1_text": "the dog", "span2_text": "it", "label": 1}
+{"text": "When Jenny found the lost puppy, she decided to take it home, but the cat was not thrilled about having a new roommate.", "span1_text": "the cat", "span2_text": "it", "label": 0}
+{"text": "The teacher praised the students for their hard work, and he was proud of the results they achieved.", "span1_text": "the teacher", "span2_text": "he", "label": 1}
+{"text": "The salad looked delicious, but they realized it was missing some crucial ingredients just before serving.", "span1_text": "the salad", "span2_text": "it", "label": 1}
+{"text": "When Laura finished her book, she gave it to Sam, who had already read the first chapter.", "span1_text": "her", "span2_text": "Laura", "label": 1}
+{"text": "The cat watched the bird intently, hoping it would come closer.", "span1_text": "the bird", "span2_text": "it", "label": 1}
+{"text": "Julia baked a pie for her friends, but they didn't seem to enjoy it.", "span1_text": "her friends", "span2_text": "they", "label": 1}
+{"text": "David saw the sign while walking, so he decided to stop and look.", "span1_text": "the sign", "span2_text": "he", "label": 0}
+{"text": "The manager told the employees that their performance was outstanding, and she was proud of them.", "span1_text": "the employees", "span2_text": "she", "label": 0}
+{"text": "After the storm, the trees looked battered, but they would recover soon.", "span1_text": "the trees", "span2_text": "they", "label": 1}
+{"text": "When Jessica baked cookies, she forgot to add sugar, which made them taste bland.", "span1_text": "she", "span2_text": "Jessica", "label": 1}
+{"text": "The cat chased the mouse until it ran into a hole in the wall.", "span1_text": "it", "span2_text": "the mouse", "label": 1}
+{"text": "During the meeting, neither James nor Lisa expected them to share their ideas so openly.", "span1_text": "them", "span2_text": "James", "label": 0}
+{"text": "The kids played soccer while their parents watched them from the sidelines.", "span1_text": "them", "span2_text": "the kids", "label": 1}
+{"text": "Martha told Susan that her presentation was impressive, but she had doubts about the data used.", "span1_text": "she", "span2_text": "Susan", "label": 0}
+{"text": "When Alex and Jordan finished their game, they decided to head to the cafe where his favorite drink awaited them.", "span1_text": "his", "span2_text": "Jordan", "label": 1}
+{"text": "Ella admired the painting so much that it inspired her to create something of her own.", "span1_text": "it", "span2_text": "the painting", "label": 1}
+{"text": "The dog chased the ball until it rolled into the bushes and disappeared.", "span1_text": "it", "span2_text": "the ball", "label": 0}
+{"text": "Sophie brought her sister some fresh cookies because she knew they were her favorite.", "span1_text": "she", "span2_text": "Sophie", "label": 1}
+{"text": "During the meeting, Jake noticed that Olivia was constantly checking her phone while he spoke.", "span1_text": "he", "span2_text": "Jake", "label": 1}
+{"text": "The cat chased the mouse, but it quickly escaped into the hole.", "span1_text": "it", "span2_text": "the mouse", "label": 0}
+{"text": "Sarah bought a dress because her friend recommended it would look nice on her at the party.", "span1_text": "her", "span2_text": "her friend", "label": 1}
+{"text": "While the dog barked loudly at the mailman, he continued to ignore it.", "span1_text": "he", "span2_text": "the mailman", "label": 1}
+{"text": "The chef prepared the meal meticulously, making sure they tasted unique and delicious.", "span1_text": "they", "span2_text": "the meal", "label": 0}
+{"text": "Emma loved her new bike so much that she took it for a ride every evening.", "span1_text": "it", "span2_text": "her new bike", "label": 1}
+{"text": "Maria saw the cat chasing its tail and wondered why it was so energetic.", "span1_text": "it", "span2_text": "the cat", "label": 1}
+{"text": "When Alice gave John the book, he immediately started reading it under the tree.", "span1_text": "he", "span2_text": "John", "label": 1}
+{"text": "The boy threw the ball to his sister, but she missed it completely.", "span1_text": "she", "span2_text": "his sister", "label": 1}
+{"text": "The teacher asked the students to submit their assignments, but they forgot to do it in time.", "span1_text": "they", "span2_text": "the students", "label": 1}
+{"text": "After the storm passed, the neighborhood was quiet again as everyone returned home.", "span1_text": "everyone", "span2_text": "the neighborhood", "label": 0}
+{"text": "When Maya finished her book, she handed it to her friend Sarah because she wanted to share her favorite story.", "span1_text": "she", "span2_text": "her friend Sarah", "label": 0}
+{"text": "Tom was excited about the concert, but he realized that it was sold out before he left home.", "span1_text": "it", "span2_text": "the concert", "label": 1}
+{"text": "After Anna finished painting the fence, she cleaned her brushes and stored them away carefully.", "span1_text": "she", "span2_text": "Anna", "label": 1}
+{"text": "The chef prepared a delicious meal, yet he knew that the guests would prefer something simpler.", "span1_text": "he", "span2_text": "the chef", "label": 1}
+{"text": "The scholar read the paper and found it informative, but she didn't agree with its conclusions.", "span1_text": "it", "span2_text": "the paper", "label": 1}
+{"text": "Jessica placed the cake on the counter but then realized she forgot the icing in the fridge.", "span1_text": "she", "span2_text": "Jessica", "label": 1}
+{"text": "The dog chased the cat around the yard until it jumped over the fence.", "span1_text": "it", "span2_text": "the cat", "label": 1}
+{"text": "John told Alex that his project was due next week, but he had already finished it.", "span1_text": "he", "span2_text": "Alex", "label": 0}
+{"text": "Lisa found the keys under the couch and decided to put them back on the table where they are usually kept.", "span1_text": "them", "span2_text": "the keys", "label": 1}
+{"text": "The artist painted the sunset beautifully, capturing its colors on canvas which he displayed at the gallery.", "span1_text": "which", "span2_text": "the canvas", "label": 1}
+{"text": "When Anna finished her project, she celebrated with her friends who were excited for her.", "span1_text": "she", "span2_text": "Anna", "label": 1}
+{"text": "The cat chased the mouse around the living room, but it eventually escaped under the couch.", "span1_text": "it", "span2_text": "the mouse", "label": 1}
+{"text": "The teacher gave the students a challenge, but they were not sure how to approach it.", "span1_text": "they", "span2_text": "the students", "label": 1}
+{"text": "Paul brewed a strong cup of coffee, but it turned out to be too bitter for his taste.", "span1_text": "it", "span2_text": "the coffee", "label": 1}
+{"text": "The committee reached its decision after a long discussion, and it surprised everyone.", "span1_text": "it", "span2_text": "the decision", "label": 1}
+{"text": "When Maria finished the project, her colleague praised her for the effort.", "span1_text": "her", "span2_text": "Maria", "label": 1}
+{"text": "The musician started to play, and the audience quickly took their seats.", "span1_text": "their", "span2_text": "the audience", "label": 1}
+{"text": "During the meeting, the manager wanted to hear what everyone thought about the proposal. She was quite interested in their feedback.", "span1_text": "she", "span2_text": "the manager", "label": 1}
+{"text": "After the storm passed, the city began to assess the damages. It was found that many homes were affected.", "span1_text": "it", "span2_text": "the city", "label": 0}
+{"text": "The teacher assigned homework to the students, and they complained about the workload.", "span1_text": "they", "span2_text": "the students", "label": 1}
+{"text": "The engineer presented her findings to the team, and they were impressed by her work.", "span1_text": "they", "span2_text": "the team", "label": 0}
+{"text": "The cat chased the mouse until it got tired and fell asleep.", "span1_text": "it", "span2_text": "the mouse", "label": 0}
+{"text": "Maria chose the book for her report because it had excellent reviews.", "span1_text": "it", "span2_text": "the book", "label": 1}
+{"text": "When the leaves turned brown, they fell to the ground fast.", "span1_text": "they", "span2_text": "the leaves", "label": 1}
+{"text": "The teacher praised John for his effort, stating that he could improve even more.", "span1_text": "he", "span2_text": "John", "label": 1}
+{"text": "When Lisa finished her painting, she set it aside to dry, and admired her work from a distance.", "span1_text": "she", "span2_text": "Lisa", "label": 1}
+{"text": "The book was lying on the table, and the cat jumped onto it to take a nap.", "span1_text": "it", "span2_text": "the book", "label": 1}
+{"text": "After the storm, the children were excited to see their favorite tree was still standing.", "span1_text": "their", "span2_text": "the children", "label": 1}
+{"text": "John and his brother took their bikes to the park, where they rode for hours.", "span1_text": "they", "span2_text": "John and his brother", "label": 1}
+{"text": "The committee reviewed the proposal carefully, but its recommendations were not well received.", "span1_text": "its", "span2_text": "the committee", "label": 1}
+{"text": "Sarah and her dog were enjoying a sunny day in the park. She threw a stick, and it landed near the fountain.", "span1_text": "the fountain", "span2_text": "it", "label": 1}
+{"text": "After the meeting concluded, John asked Maria if she would review the proposals. She agreed to look them over by the end of the week.", "span1_text": "the proposals", "span2_text": "them", "label": 1}
+{"text": "The teacher asked the students to bring their textbooks. They needed them for the upcoming exam.", "span1_text": "the students", "span2_text": "them", "label": 1}
+{"text": "In the garden, there were flowers of various colors. They brightened the entire landscape with their beauty.", "span1_text": "the flowers", "span2_text": "they", "label": 1}
+{"text": "When the runner reached the finish line, he raised his arms in celebration. The crowd cheered loudly for him.", "span1_text": "the crowd", "span2_text": "him", "label": 0}
+{"text": "The cat chased the mouse until it reached the hole beneath the cabinet.", "span1_text": "it", "span2_text": "the mouse", "label": 0}
+{"text": "Samantha bought a dress for her sister, but she didn't like it.", "span1_text": "she", "span2_text": "her sister", "label": 1}
+{"text": "The dog barked loudly, but nobody paid any attention to it.", "span1_text": "it", "span2_text": "the dog", "label": 1}
+{"text": "Michael and Sarah went to the store, but he forgot his wallet.", "span1_text": "he", "span2_text": "Michael", "label": 1}
+{"text": "The fruit salad was delicious, but it made me feel ill afterward.", "span1_text": "it", "span2_text": "the fruit salad", "label": 1}
+{"text": "When Maria saw her brother at the park, she waved to him with excitement.", "span1_text": "she", "span2_text": "her brother", "label": 1}
+{"text": "The teacher told the students to prepare their projects, but he didn't mention the deadline.", "span1_text": "he", "span2_text": "the students", "label": 0}
+{"text": "After the storm, the family decided to rebuild their home, which had been severely damaged.", "span1_text": "which", "span2_text": "their home", "label": 1}
+{"text": "Luca and his friend went to the museum, but he forgot his ticket at home.", "span1_text": "he", "span2_text": "his friend", "label": 0}
+{"text": "The chef prepared a beautiful dish; it was the highlight of the evening.", "span1_text": "it", "span2_text": "a beautiful dish", "label": 1}
+{"text": "The cat chased the mouse until it slipped through a hole in the wall.", "span1_text": "it", "span2_text": "the mouse", "label": 1}
+{"text": "The teacher asked the students to submit their assignments on time, but they had trouble with the formatting.", "span1_text": "they", "span2_text": "the students", "label": 1}
+{"text": "After the storm, the tree lost its branches, and it looked quite bare.", "span1_text": "it", "span2_text": "the tree", "label": 1}
+{"text": "When the clock struck midnight, the party hosts announced that everyone should head home.", "span1_text": "everyone", "span2_text": "the party hosts", "label": 0}
+{"text": "The lawyer prepared the case for trial, and she felt confident about the arguments.", "span1_text": "she", "span2_text": "the lawyer", "label": 1}
+{"text": "The cat chased the mouse, but it got away through a hole in the wall.", "span1_text": "it", "span2_text": "the mouse", "label": 0}
+{"text": "When Emily baked the cake, her friends were eager to try it right away.", "span1_text": "her", "span2_text": "Emily", "label": 1}
+{"text": "During the race, the runners pushed themselves to the limit; they wanted to win.", "span1_text": "they", "span2_text": "the runners", "label": 1}
+{"text": "The book was left on the table, and nobody seemed to notice it was there.", "span1_text": "it", "span2_text": "the book", "label": 1}
+{"text": "Mark thought the puzzle was too complicated, so he decided not to attempt it.", "span1_text": "he", "span2_text": "Mark", "label": 1}
+{"text": "The cat chased the mouse around the room until it finally caught it in the corner.", "span1_text": "it", "span2_text": "the mouse", "label": 1}
+{"text": "After the storm passed, the team had to check the damage that the wind caused to their house.", "span1_text": "their", "span2_text": "the team", "label": 1}
+{"text": "When the chef tasted the soup, he realized it was too salty to serve to the guests tonight.", "span1_text": "it", "span2_text": "the soup", "label": 1}
+{"text": "Jessica and Emily decided to go for a hike, but Jessica fell and twisted her ankle on the rocky path.", "span1_text": "her", "span2_text": "Jessica", "label": 1}
+{"text": "The book was left open on the table and someone accidentally knocked it onto the floor.", "span1_text": "it", "span2_text": "the book", "label": 1}
+{"text": "When Sarah completed the marathon, her friends cheered for her. They were so proud.", "span1_text": "her", "span2_text": "Sarah", "label": 1}
+{"text": "The cat chased the mouse, but it got away quickly. The mouse was clever.", "span1_text": "it", "span2_text": "the mouse", "label": 1}
+{"text": "During the presentation, Lucy forgot to mention Carla 's points. She felt embarrassed after the meeting.", "span1_text": "She", "span2_text": "Lucy", "label": 1}
+{"text": "Michael showed Eric how to solve the puzzle. He was really grateful for the help.", "span1_text": "He", "span2_text": "Eric", "label": 0}
+{"text": "At the beach, the children built a sandcastle that was taller than him. Everyone admired their work.", "span1_text": "him", "span2_text": "the sandcastle", "label": 0}
+{"text": "The cat chased the mouse until it found a hole to hide in.", "span1_text": "it", "span2_text": "the mouse", "label": 1}
+{"text": "When Sarah brought the cake to the party, Emily was thrilled to see that she had decorated it beautifully.", "span1_text": "she", "span2_text": "Emily", "label": 0}
+{"text": "The teacher praised the student when he saw the painting hanging in the gallery.", "span1_text": "he", "span2_text": "the student", "label": 1}
+{"text": "Mark was excited to see his brother at the event, but he ended up leaving early.", "span1_text": "he", "span2_text": "Mark", "label": 0}
+{"text": "Lisa gave her friend a book because she knew it would help him.", "span1_text": "she", "span2_text": "her friend", "label": 1}
+{"text": "The magician showed the audience a trick with a rabbit. After the performance, it disappeared without a trace.", "span1_text": "it", "span2_text": "the rabbit", "label": 1}
+{"text": "Jessica bought a new dress for the event. She couldn't wait to wear it to impress everyone.", "span1_text": "it", "span2_text": "the dress", "label": 1}
+{"text": "The manager spoke to the intern about the project. They both agreed on the next steps to take.", "span1_text": "They", "span2_text": "the manager", "label": 0}
+{"text": "During the painting class, the teacher praised the student for her talent. She found encouragement to keep improving.", "span1_text": "She", "span2_text": "the student", "label": 1}
+{"text": "At the zoo, the children were delighted by the big cats. They watched them play for hours.", "span1_text": "them", "span2_text": "the big cats", "label": 1}
+{"text": "After the storm, the lighthouse kept its light shining because it was so important for the ships.", "span1_text": "it", "span2_text": "the lighthouse", "label": 1}
+{"text": "The chef prepared a beautiful meal for the guests, but they didn't seem to appreciate it.", "span1_text": "they", "span2_text": "the guests", "label": 1}
+{"text": "The dog barked loudly while the cat slept peacefully on the sofa. It seemed unfazed by the noise.", "span1_text": "it", "span2_text": "the cat", "label": 1}
+{"text": "The actor thanked his team after the show, saying they did an incredible job despite the challenges.", "span1_text": "they", "span2_text": "his team", "label": 1}
+{"text": "Julia and Mark decided to stay home instead of going out, but she was still feeling adventurous.", "span1_text": "she", "span2_text": "Julia", "label": 1}
+{"text": "When Sam arrived at the restaurant, he realized that the place he had chosen was already closed, so he decided to go somewhere else.", "span1_text": "he", "span2_text": "Sam", "label": 1}
+{"text": "After the presentation ended, Lydia felt relieved because her colleagues didn't ask any questions about it.", "span1_text": "it", "span2_text": "the presentation", "label": 1}
+{"text": "The cat playfully chased its tail, but soon it lost interest and lay down on the floor.", "span1_text": "it", "span2_text": "the cat", "label": 1}
+{"text": "After hearing the criticism about their performance, the team was upset, but they quickly resolved to work harder next time.", "span1_text": "they", "span2_text": "the team", "label": 1}
+{"text": "Although he wanted to be a doctor, his parents insisted that he should study law instead, claiming it would be more stable.", "span1_text": "it", "span2_text": "law", "label": 1}
+{"text": "When the rain stopped, Lucy stepped outside and saw the puddles reflecting the sky. It was a beautiful sight.", "span1_text": "It", "span2_text": "the puddles", "label": 1}
+{"text": "After finishing her puzzle, Emma felt a sense of accomplishment. She knew it was worth the effort.", "span1_text": "it", "span2_text": "the puzzle", "label": 1}
+{"text": "The birds flew into the garden, chirping happily as they landed on the branches. Everyone watched them with wonder.", "span1_text": "them", "span2_text": "the birds", "label": 1}
+{"text": "David bought a new bicycle and was excited to ride it. He couldn't stop thinking about all the places he would go.", "span1_text": "it", "span2_text": "a new bicycle", "label": 1}
+{"text": "The dog chased the cat around the yard, barking excitedly. Finally, it decided to rest under the tree.", "span1_text": "it", "span2_text": "the cat", "label": 0}
+{"text": "Julia and Marie planned a surprise party for their friend. She was thrilled by all the effort they put in.", "span1_text": "She", "span2_text": "their friend", "label": 1}
+{"text": "When the cat jumped off the shelf, it knocked over a vase. The dog watching from the floor seemed unfazed.", "span1_text": "it", "span2_text": "the cat", "label": 1}
+{"text": "While reading a book, Tom noticed that it contained many illustrations. He found them quite distracting.", "span1_text": "them", "span2_text": "the illustrations", "label": 1}
+{"text": "At the tournament, Mark thought that Bob would win. He had been practicing every day for months.", "span1_text": "He", "span2_text": "Bob", "label": 1}
+{"text": "The players ran onto the field, eager to start the match. Suddenly, they heard a loud whistle blow.", "span1_text": "they", "span2_text": "The players", "label": 1}
+{"text": "The dog chased the squirrel, but it was much too fast for him to catch.", "span1_text": "it", "span2_text": "squirrel", "label": 0}
+{"text": "Lucy looked at her friend with pride; she knew that he had worked hard to achieve his dreams.", "span1_text": "she", "span2_text": "Lucy", "label": 1}
+{"text": "The teacher praised the students because they finished their projects early, and the class celebrated.", "span1_text": "they", "span2_text": "students", "label": 1}
+{"text": "When the cake was ready, Sarah said that it looked delicious, but she decided not to eat it after all.", "span1_text": "it", "span2_text": "cake", "label": 1}
+{"text": "The car wouldn't start this morning, so its owner took a taxi to work instead of waiting.", "span1_text": "its", "span2_text": "car", "label": 1}
+{"text": "When Lily saw the tall tree swaying in the wind, she wondered how long it had been there.", "span1_text": "it", "span2_text": "the tall tree", "label": 1}
+{"text": "During the meeting, Alex noticed the broken projector and decided he needed to repair it right away.", "span1_text": "he", "span2_text": "Alex", "label": 1}
+{"text": "The chef meticulously arranged the colorful ingredients on the plate before serving them to the guests.", "span1_text": "them", "span2_text": "the colorful ingredients", "label": 1}
+{"text": "As the storm approached, the dogs ran to their owner, who quickly brought them inside for safety.", "span1_text": "them", "span2_text": "the dogs", "label": 1}
+{"text": "The athlete trained hard every day, but she still thought she wouldn't win the race despite doing her best.", "span1_text": "she", "span2_text": "the athlete", "label": 1}
+{"text": "When the cat knocked over the vase, it shattered into pieces.", "span1_text": "the vase", "span2_text": "it", "label": 1}
+{"text": "During the concert, the crowd cheered loudly as the band took their places on stage.", "span1_text": "the band", "span2_text": "their", "label": 1}
+{"text": "The teacher explained the lesson thoroughly, but he knew some students still found it challenging.", "span1_text": "the teacher", "span2_text": "he", "label": 1}
+{"text": "After the wedding, Lisa said she felt overwhelmed with joy and excitement for the future.", "span1_text": "the future", "span2_text": "she", "label": 0}
+{"text": "The chef prepared a delicious meal, and everyone at the table enjoyed it immensely.", "span1_text": "the meal", "span2_text": "it", "label": 1}
+{"text": "The chef prepared a special dish for the customer, but he wasn't satisfied with it.", "span1_text": "he", "span2_text": "the customer", "label": 0}
+{"text": "When Sarah met with Julie, she brought a gift to celebrate their friendship.", "span1_text": "she", "span2_text": "Sarah", "label": 1}
+{"text": "The dog chased the cat around the yard until it got tired and lay down.", "span1_text": "it", "span2_text": "the cat", "label": 0}
+{"text": "Mike and Tom decided to go hiking, but Mike forgot his water bottle, so he had to borrow one.", "span1_text": "he", "span2_text": "Mike", "label": 1}
+{"text": "The teacher asked the students to submit their reports early because she needed time to review them.", "span1_text": "she", "span2_text": "the teacher", "label": 1}
+{"text": "During the ceremony, Sarah noticed that Mary had forgotten her coat, so she decided to lend it to her.", "span1_text": "her", "span2_text": "Mary", "label": 1}
+{"text": "Tom saw that Clark had misplaced his keys, which was frustrating because he needed them immediately.", "span1_text": "he", "span2_text": "Clark", "label": 1}
+{"text": "When Rachel invited Gina over for tea, she found that Gina had brought desserts with her.", "span1_text": "she", "span2_text": "Rachel", "label": 0}
+{"text": "The cat meowed loudly in front of her bowl because it was empty and she couldn't ignore it.", "span1_text": "it", "span2_text": "the bowl", "label": 0}
+{"text": "After Jake finished the game, he felt proud of himself for achieving such a high score.", "span1_text": "he", "span2_text": "Jake", "label": 1}
+{"text": "Alice and Bob were planning a trip. She suggested they go hiking instead.", "span1_text": "She", "span2_text": "Alice", "label": 1}
+{"text": "The committee decided to postpone the meeting. They wrote an email to everyone about it.", "span1_text": "They", "span2_text": "the committee", "label": 1}
+{"text": "When the dog barked, James thought it was his neighbor's. He quickly went to check.", "span1_text": "He", "span2_text": "James", "label": 0}
+{"text": "The chef prepared a special dish for the guests. It turned out to be a big hit.", "span1_text": "It", "span2_text": "the special dish", "label": 1}
+{"text": "Jessica left her book on the table. It seemed someone had borrowed it without asking.", "span1_text": "It", "span2_text": "her book", "label": 1}
+{"text": "The cat chased the mouse through the garden, but it hid behind the flowers.", "span1_text": "it", "span2_text": "the mouse", "label": 0}
+{"text": "Samantha and her sister went shopping, but she forgot her wallet at home.", "span1_text": "she", "span2_text": "Samantha", "label": 1}
+{"text": "The weather forecast predicted sun, but it turned cloudy.", "span1_text": "it", "span2_text": "the weather forecast", "label": 0}
+{"text": "Tom bought his wife a new dress for their anniversary, and she loved it.", "span1_text": "she", "span2_text": "his wife", "label": 1}
+{"text": "The teacher asked the students to submit their projects, but they were still working on them.", "span1_text": "they", "span2_text": "the students", "label": 1}
+{"text": "Julia has been practicing every day for the competition, but it seems her friend is the one who truly shines.", "span1_text": "her", "span2_text": "Julia", "label": 1}
+{"text": "When the cat chased the mouse, it darted under the couch for safety.", "span1_text": "it", "span2_text": "the mouse", "label": 1}
+{"text": "The committee reached a decision after much debate, but some members were unhappy with their final choice.", "span1_text": "their", "span2_text": "the committee", "label": 1}
+{"text": "Sam and Alex were playing soccer when he tripped and fell.", "span1_text": "he", "span2_text": "Alex", "label": 0}
+{"text": "The flowers that Sarah planted in her garden are blooming beautifully this season, which makes her very proud.", "span1_text": "which", "span2_text": "the flowers", "label": 1}
+{"text": "During the meeting, David shared his thoughts, which impressed everyone, especially his friend Oliver, who praised him for his insights.", "span1_text": "him", "span2_text": "David", "label": 1}
+{"text": "The dog chased the cat across the yard, but it quickly climbed a tree to escape.", "span1_text": "it", "span2_text": "the cat", "label": 1}
+{"text": "When Emma finished her painting, she felt proud of it, knowing it showcased her growth as an artist.", "span1_text": "it", "span2_text": "her painting", "label": 1}
+{"text": "Tom and Jerry went to the park, but the latter seemed more interested in chasing birds than playing.", "span1_text": "the latter", "span2_text": "Jerry", "label": 1}
+{"text": "The conference attracted many attendees, but only a few found the discussions engaging, leading to a lot of dismissive comments about it.", "span1_text": "it", "span2_text": "the discussions", "label": 0}
+{"text": "The chef prepared a magnificent feast and displayed it proudly on the table. Everyone admired his hard work.", "span1_text": "his", "span2_text": "the chef", "label": 1}
+{"text": "The artist painted a beautiful mural that captivated everyone who saw it. The crowd gathered around.", "span1_text": "it", "span2_text": "the mural", "label": 1}
+{"text": "The mother dropped her engagement ring while playing with her children in the park. It was lost for days.", "span1_text": "It", "span2_text": "her engagement ring", "label": 1}
+{"text": "The rabbit burrowed into the ground, while the fox waited nearby. It knew it had to be patient.", "span1_text": "It", "span2_text": "the fox", "label": 0}
+{"text": "The teacher asked the student to finish the assignment by next week. He promised to submit it on time.", "span1_text": "He", "span2_text": "the student", "label": 1}
+{"text": "The chef prepared a special dish for the customer, but it was too salty for their taste.", "span1_text": "the customer", "span2_text": "it", "label": 0}
+{"text": "The lawyer met with the judge before the case, and she felt confident about the outcome.", "span1_text": "she", "span2_text": "the judge", "label": 0}
+{"text": "After the storm, the tree fell on the car, and it was badly damaged.", "span1_text": "the car", "span2_text": "it", "label": 1}
+{"text": "The flowers were wilting in the heat, and the gardener decided to water them immediately.", "span1_text": "them", "span2_text": "the flowers", "label": 1}
+{"text": "John told Alice that the project was finished, but he was unhappy about the feedback.", "span1_text": "he", "span2_text": "John", "label": 1}
+{"text": "The cat jumped off the couch as it was startled by a loud noise.", "span1_text": "it", "span2_text": "the couch", "label": 0}
+{"text": "When Alex saw that the dog was wagging its tail, he felt happy that it was enjoying the park.", "span1_text": "it", "span2_text": "the dog", "label": 1}
+{"text": "At the festival, the children and their parents enjoyed watching the fireworks before they went home.", "span1_text": "they", "span2_text": "the fireworks", "label": 0}
+{"text": "The chef was proud that his dessert received such admiration from the guests; they praised it highly.", "span1_text": "they", "span2_text": "the dessert", "label": 1}
+{"text": "When the lights went out, the children quickly turned on their flashlights to find the dog that was hiding.", "span1_text": "that", "span2_text": "the dog", "label": 1}
+{"text": "The cat chased the mouse around the house until it finally caught up with her.", "span1_text": "it", "span2_text": "the mouse", "label": 0}
+{"text": "The chef prepared the dish so well that his customers couldn't stop complimenting him for it.", "span1_text": "it", "span2_text": "the dish", "label": 1}
+{"text": "Sarah and Jessica were best friends, but when Sarah left for college, she felt that the distance was affecting them.", "span1_text": "she", "span2_text": "Sarah", "label": 1}
+{"text": "During their meeting, the manager asked for feedback but wanted to keep it professional and not personal.", "span1_text": "it", "span2_text": "feedback", "label": 1}
+{"text": "The fisherman caught a big fish but accidentally dropped it back into the water before he could take a picture.", "span1_text": "it", "span2_text": "the big fish", "label": 1}
+{"text": "When Sarah baked the cake, she realized it needed more sugar than she expected. Although she had all the ingredients, she was running low on time.", "span1_text": "she", "span2_text": "Sarah", "label": 1}
+{"text": "The cat chased the dog around the yard, but it quickly climbed up the tree to escape. Everyone in the neighborhood thought it was quite entertaining.", "span1_text": "it", "span2_text": "the dog", "label": 0}
+{"text": "During the picnic, the children played games while their parents relaxed under the shade. The children started to eat their sandwiches early.", "span1_text": "their", "span2_text": "the children", "label": 1}
+{"text": "Jack and his sister were arguing over the last cookie in the jar. She wanted it badly, but Jack thought it was unfair.", "span1_text": "she", "span2_text": "his sister", "label": 1}
+{"text": "In the race, Michael stumbled and fell while Chris sprinted past him. It was a surprise to everyone that he managed to get back up.", "span1_text": "he", "span2_text": "Michael", "label": 1}
+{"text": "The dog chased the cat into the garden and found its way back home without any trouble.", "span1_text": "its", "span2_text": "the dog", "label": 1}
+{"text": "When Lisa dropped the ball, it bounced high before she could catch it.", "span1_text": "it", "span2_text": "the ball", "label": 1}
+{"text": "The teacher gave the students books to read, but they were too difficult for them.", "span1_text": "they", "span2_text": "the books", "label": 0}
+{"text": "Mark and his sister built a snowman, but she forgot to add a hat to it.", "span1_text": "she", "span2_text": "his sister", "label": 1}
+{"text": "The cake was so delicious that everyone wanted another slice of it after dinner.", "span1_text": "it", "span2_text": "the cake", "label": 1}
+{"text": "The chef prepared the dish carefully because it was very complicated.", "span1_text": "the dish", "span2_text": "it", "label": 1}
+{"text": "The cat chased the mouse around the garden before it escaped into a hole.", "span1_text": "the mouse", "span2_text": "it", "label": 0}
+{"text": "Sara gave her friend a gift since she had saved up for months.", "span1_text": "she", "span2_text": "her friend", "label": 1}
+{"text": "After the storm, the trees looked bare yet beautiful as they lost their leaves.", "span1_text": "they", "span2_text": "the trees", "label": 1}
+{"text": "The athlete won the race, but he didn't expect it to be so close.", "span1_text": "it", "span2_text": "the race", "label": 0}
+{"text": "The dog chased the cat until it got tired and lay down in the sun.", "span1_text": "it", "span2_text": "the cat", "label": 0}
+{"text": "After the meeting, Emily told Sarah that she should consider her proposal carefully.", "span1_text": "she", "span2_text": "Sarah", "label": 1}
+{"text": "The car broke down on the way to the beach and the owner wasn't happy about driving it back home.", "span1_text": "the owner", "span2_text": "the car", "label": 0}
+{"text": "Both Alex and Jamie left their bags behind, so they had to return to retrieve them.", "span1_text": "they", "span2_text": "Alex and Jamie", "label": 1}
+{"text": "The window was cracked, so it was difficult to see through it clearly.", "span1_text": "it", "span2_text": "the window", "label": 1}
+{"text": "The cat chased the mouse until it finally caught it in the garden.", "span1_text": "it", "span2_text": "the mouse", "label": 1}
+{"text": "The teacher assigned the students to write a paper, and they had to complete it by next week.", "span1_text": "they", "span2_text": "the students", "label": 1}
+{"text": "The car wouldn’t start because its battery was dead, so we called for a tow truck.", "span1_text": "its", "span2_text": "The car", "label": 1}
+{"text": "The committee met to discuss the new policy, and they reached a consensus quickly.", "span1_text": "they", "span2_text": "The committee", "label": 1}
+{"text": "After the storm passed, the old tree lay on the ground, but it remained standing for many years.", "span1_text": "it", "span2_text": "the old tree", "label": 1}
+{"text": "After the meeting, the manager thanked her assistant for the support she provided throughout the project.", "span1_text": "the assistant", "span2_text": "she", "label": 1}
+{"text": "The book was about a detective who couldn't solve a case until he found the missing clue; it revealed everything to him.", "span1_text": "the missing clue", "span2_text": "it", "label": 1}
+{"text": "When the rain started pouring, Jack grabbed his umbrella and hurried to the car before it got soaked.", "span1_text": "the car", "span2_text": "it", "label": 1}
+{"text": "Lucy offered her friend a piece of cake. She was really excited about the new recipe.", "span1_text": "her friend", "span2_text": "she", "label": 0}
+{"text": "During the game, the crowd cheered for the home team, as they knew they had a strong chance of winning.", "span1_text": "the home team", "span2_text": "they", "label": 1}
+{"text": "Laura was excited to meet her friend, though they had never met in person before.", "span1_text": "they", "span2_text": "her friend", "label": 1}
+{"text": "The athlete trained diligently all year, yet he would often skip meals when the competition was near.", "span1_text": "he", "span2_text": "the athlete", "label": 1}
+{"text": "Samantha adopted two puppies from the shelter, but she had to find a home for one when it became too much to handle.", "span1_text": "it", "span2_text": "one", "label": 1}
+{"text": "Catherine wrote her thesis in a hurry, despite the fact that she knew it would affect the quality.", "span1_text": "it", "span2_text": "the quality", "label": 0}
+{"text": "David helped his brother with homework, but he ended up needing help himself later that evening.", "span1_text": "he", "span2_text": "David", "label": 0}
+{"text": "When the chef prepared his signature dish, the guests couldn't stop praising him for it.", "span1_text": "him", "span2_text": "the chef", "label": 1}
+{"text": "Sarah forgot her phone at the café, so she had to borrow one from Laura to call her mom.", "span1_text": "she", "span2_text": "Sarah", "label": 1}
+{"text": "After the debate, Michael congratulated Emily on her success, as he was impressed by her arguments.", "span1_text": "he", "span2_text": "Michael", "label": 0}
+{"text": "The cat chased its tail around the living room until it got tired and lay down on the couch.", "span1_text": "it", "span2_text": "the cat", "label": 1}
+{"text": "In the morning, the gardener realized the flowers needed water, but they had already wilting by then.", "span1_text": "they", "span2_text": "the flowers", "label": 1}
+{"text": "The painting was exquisite, and everyone admired it for hours.", "span1_text": "it", "span2_text": "the painting", "label": 1}
+{"text": "After the rain, the garden looked vibrant and welcoming, although some plants were already wilting.", "span1_text": "some", "span2_text": "plants", "label": 1}
+{"text": "Jason usually helps his sister with homework, but she prefers to tackle it alone this time.", "span1_text": "it", "span2_text": "homework", "label": 1}
+{"text": "The dog chased the cat around the yard, but as soon as the cat climbed the fence, he lost interest.", "span1_text": "he", "span2_text": "the dog", "label": 1}
+{"text": "As Sam prepared for the presentation, he realized his notes were missing, leading to a frantic search.", "span1_text": "he", "span2_text": "Sam", "label": 1}
+{"text": "Maria took her dog to the park, and it seemed to enjoy running around with the other pets.", "span1_text": "the dog", "span2_text": "it", "label": 1}
+{"text": "When Kevin finished his project, he decided to reward himself with a day off, and his team was thrilled about his success.", "span1_text": "his team", "span2_text": "his", "label": 1}
+{"text": "The chef prepared a beautiful dish, and when he served it, everyone praised the flavors.", "span1_text": "the dish", "span2_text": "it", "label": 1}
+{"text": "The crowd applauded the performer, as he amazed everyone with his incredible talent.", "span1_text": "the performer", "span2_text": "he", "label": 1}
+{"text": "Rachel loved her new dress, but she wasn't sure if it was worth the price she paid for it.", "span1_text": "the dress", "span2_text": "it", "label": 1}
+{"text": "The dog barked loudly, causing the neighbors to complain about it.", "span1_text": "it", "span2_text": "the dog", "label": 1}
+{"text": "After the storm passed, the residents found their gardens damaged but they quickly started to clean them up.", "span1_text": "them", "span2_text": "gardens", "label": 1}
+{"text": "The teacher told his students they would have a quiz next week, which worried some of them.", "span1_text": "them", "span2_text": "students", "label": 1}
+{"text": "The artist painted a mural on the wall, and it quickly became the center of attention in the gallery.", "span1_text": "it", "span2_text": "the mural", "label": 1}
+{"text": "The cat chased the mouse around the room, but it was too quick to catch.", "span1_text": "it", "span2_text": "the mouse", "label": 1}
+{"text": "After the team lost the game, the coach said they would work harder next time.", "span1_text": "they", "span2_text": "the team", "label": 1}
+{"text": "The dog barked loudly because it was excited to see its owner.", "span1_text": "it", "span2_text": "the dog", "label": 1}
+{"text": "During the meeting, Sarah noticed that her laptop was malfunctioning, so she borrowed David's.", "span1_text": "she", "span2_text": "Sarah", "label": 1}
+{"text": "When the teacher asked the students to quiet down, they continued to chat amongst themselves.", "span1_text": "they", "span2_text": "the students", "label": 1}
+{"text": "Lily was baking cookies, and her brother enjoyed watching her as he played video games.", "span1_text": "he", "span2_text": "her brother", "label": 1}
+{"text": "The dog chased the squirrel up the tree, but it was too high for him to reach.", "span1_text": "the squirrel", "span2_text": "it", "label": 1}
+{"text": "When the teacher called on the student, he quickly raised his hand, hoping she would notice.", "span1_text": "she", "span2_text": "the teacher", "label": 1}
+{"text": "The chef prepared the dish with care, but some diners thought it was undercooked.", "span1_text": "the dish", "span2_text": "it", "label": 1}
+{"text": "My friend and I went to the beach for the day, and they had a great time swimming.", "span1_text": "they", "span2_text": "My friend and I", "label": 1}
+{"text": "The trees swayed gently in the breeze, and they cast beautiful shadows on the ground.", "span1_text": "they", "span2_text": "the trees", "label": 1}
+{"text": "The cat jumped onto the windowsill because it wanted to watch the birds.", "span1_text": "it", "span2_text": "the cat", "label": 1}
+{"text": "During the meeting, Sarah noted that her colleague was feeling unwell.", "span1_text": "her", "span2_text": "Sarah", "label": 0}
+{"text": "When the dog barked loudly, the neighbors complained about it.", "span1_text": "it", "span2_text": "the dog", "label": 1}
+{"text": "Jake asked Emily if she wanted to join him at the concert later.", "span1_text": "she", "span2_text": "Emily", "label": 1}
+{"text": "The engineers submitted their plans, but the manager rejected it abruptly.", "span1_text": "it", "span2_text": "the plans", "label": 0}

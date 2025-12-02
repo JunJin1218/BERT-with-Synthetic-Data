@@ -1,0 +1,30 @@
+# Pre-setting
+model: bert-large-cased
+benchmark: super_glue
+task: wsc
+seed: 42
+
+# Data ratio
+data_model: gpt-4o-mini
+mode: original # original, synthetic, mix
+scale: 1        # n * original data
+
+# Data preparation
+dataset: "synthetic-5-25.jsonl"
+truncation: true
+padding: max_length
+max_length: 128
+
+# Hyperparameters
+eval_strategy: epoch
+save_strategy: epoch
+learning_rate: 2e-5
+save_total_limit: 5
+per_device_train_batch_size: 16
+per_device_eval_batch_size: 16
+num_train_epochs: 10
+weight_decay: 0.01
+load_best_model_at_end: true
+metric_for_best_model: accuracy
+greater_is_better: true
+gradient_accumulation_steps: 2

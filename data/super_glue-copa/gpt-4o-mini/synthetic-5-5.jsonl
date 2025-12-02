@@ -1,0 +1,400 @@
+{"premise": "The child reached for the cookie jar.", "choice1": "The cookies were on a high shelf.", "choice2": "The child wanted a snack.", "question": "cause", "label": 1}
+{"premise": "The teacher assigned a project to the class.", "choice1": "The students were excited to start.", "choice2": "The project took a lot of time to complete.", "question": "effect", "label": 0}
+{"premise": "The storm caused a power outage.", "choice1": "The lights went out in the neighborhood.", "choice2": "People were informed to stay inside.", "question": "effect", "label": 0}
+{"premise": "The dog barked loudly at the strangers.", "choice1": "The dog was feeling friendly.", "choice2": "The strangers approached the house.", "question": "cause", "label": 1}
+{"premise": "The garden was full of blooming flowers.", "choice1": "The weather had been warm and sunny.", "choice2": "The flowers were planted last year.", "question": "cause", "label": 0}
+{"premise": "The chef won a prestigious cooking competition.", "choice1": "He created an innovative dish.", "choice2": "He read a lot of cookbooks.", "question": "cause", "label": 0}
+{"premise": "The student aced the final exam.", "choice1": "They studied hard all semester.", "choice2": "They made a study group last minute.", "question": "cause", "label": 0}
+{"premise": "The cat knocked over the vase.", "choice1": "It saw a bird outside.", "choice2": "It was just cleaning itself.", "question": "cause", "label": 0}
+{"premise": "The athlete broke the world record.", "choice1": "They trained for years.", "choice2": "They were wearing special shoes.", "question": "effect", "label": 1}
+{"premise": "The audience applauded loudly after the performance.", "choice1": "The performers were all very talented.", "choice2": "The curtains fell quickly.", "question": "cause", "label": 0}
+{"premise": "The car skidded on the wet road.", "choice1": "The driver lost control of the vehicle.", "choice2": "The driver turned on the headlights.", "question": "cause", "label": 0}
+{"premise": "The student studied all night for the exam.", "choice1": "The student scored very well on the test.", "choice2": "The student felt tired the next day.", "question": "effect", "label": 1}
+{"premise": "The garden was watered regularly.", "choice1": "The plants grew taller and healthier.", "choice2": "The pests invaded the garden.", "question": "effect", "label": 0}
+{"premise": "The fire alarm went off.", "choice1": "Someone forgot to turn it off.", "choice2": "There was smoke in the building.", "question": "cause", "label": 1}
+{"premise": "He started exercising every day.", "choice1": "He gained weight quickly.", "choice2": "He lost several pounds over time.", "question": "effect", "label": 1}
+{"premise": "The tree fell during the storm.", "choice1": "The wind picked up speed.", "choice2": "The storm caused injuries.", "question": "cause", "label": 0}
+{"premise": "The cake collapsed in the oven.", "choice1": "The baker forgot to add baking powder.", "choice2": "The cake was decorated beautifully.", "question": "cause", "label": 0}
+{"premise": "The athlete crossed the finish line.", "choice1": "The crowd erupted in applause.", "choice2": "The athlete felt exhausted afterwards.", "question": "effect", "label": 1}
+{"premise": "The lights went out unexpectedly.", "choice1": "Someone forgot to pay the bill.", "choice2": "The power company was performing maintenance.", "question": "cause", "label": 1}
+{"premise": "The cat was meowing loudly.", "choice1": "It wanted to go outside.", "choice2": "It was playing with a toy.", "question": "cause", "label": 0}
+{"premise": "The sun set behind the mountains.", "choice1": "The sky turned orange and pink.", "choice2": "It began to rain heavily.", "question": "effect", "label": 0}
+{"premise": "The cat jumped off the table.", "choice1": "It wanted to chase a mouse.", "choice2": "It was trying to find a comfortable spot.", "question": "cause", "label": 0}
+{"premise": "The book was very popular among teenagers.", "choice1": "It was praised for its relatable characters.", "choice2": "It was written in a complicated style.", "question": "cause", "label": 0}
+{"premise": "The athlete trained hard every day.", "choice1": "He won the championship title.", "choice2": "He decided to take a break.", "question": "effect", "label": 0}
+{"premise": "The chef prepared a special dessert.", "choice1": "The customers left the restaurant satisfied.", "choice2": "The dessert was burned in the oven.", "question": "effect", "label": 0}
+{"premise": "The river flooded the surrounding fields.", "choice1": "Heavy rainfall preceded the flood.", "choice2": "Farmers harvested their crops.", "question": "cause", "label": 0}
+{"premise": "The athlete broke the world record.", "choice1": "She trained rigorously for months.", "choice2": "Fans celebrated her win immediately.", "question": "cause", "label": 0}
+{"premise": "The cake was beautifully decorated.", "choice1": "It was baked for a special occasion.", "choice2": "It fell on the floor before the party.", "question": "effect", "label": 0}
+{"premise": "The baby learned to crawl.", "choice1": "She practiced daily with her parents.", "choice2": "She suddenly became tired.", "question": "effect", "label": 0}
+{"premise": "The concert was canceled due to rain.", "choice1": "The tickets sold out quickly.", "choice2": "The storm became too severe.", "question": "cause", "label": 1}
+{"premise": "The dog was barking loudly in the yard.", "choice1": "It was trying to warn its owner.", "choice2": "It was getting tired from playing.", "question": "cause", "label": 0}
+{"premise": "The chef added salt to the dish.", "choice1": "The dish became too salty.", "choice2": "The dish was perfectly seasoned.", "question": "effect", "label": 1}
+{"premise": "The students studied all night for the exam.", "choice1": "They felt exhausted the next day.", "choice2": "They aced the test with ease.", "question": "effect", "label": 1}
+{"premise": "The plants in the garden were wilting.", "choice1": "It rained heavily the next day.", "choice2": "The gardener forgot to water them.", "question": "cause", "label": 1}
+{"premise": "The concert was sold out within hours.", "choice1": "The band announced a new album.", "choice2": "Many fans were disappointed.", "question": "effect", "label": 0}
+{"premise": "The gardener watered the plants in the morning.", "choice1": "The flowers started to bloom in spring.", "choice2": "The plants grew healthier and greener.", "question": "effect", "label": 1}
+{"premise": "The child forgot to bring his lunch to school.", "choice1": "He felt very hungry during the day.", "choice2": "He decided to eat at a friend's house.", "question": "effect", "label": 0}
+{"premise": "The athlete trained every day for the upcoming championship.", "choice1": "She achieved her personal best in the competition.", "choice2": "She decided to take a break from sports.", "question": "cause", "label": 0}
+{"premise": "The chef added spices to the dish.", "choice1": "The dish became tastier and more aromatic.", "choice2": "The chef cleaned the kitchen afterward.", "question": "effect", "label": 0}
+{"premise": "The detective found a crucial piece of evidence.", "choice1": "The case was solved quickly after that.", "choice2": "The detective took a vacation soon after.", "question": "effect", "label": 1}
+{"premise": "The baker forgot to set the timer for the cake.", "choice1": "The cake burned in the oven.", "choice2": "The cake came out perfectly.", "question": "effect", "label": 0}
+{"premise": "The athlete trained hard for the marathon.", "choice1": "He won first place.", "choice2": "He decided to skip the race.", "question": "cause", "label": 0}
+{"premise": "The storm knocked down several trees.", "choice1": "The town experienced a power outage.", "choice2": "The town prepared for a festival.", "question": "effect", "label": 0}
+{"premise": "The student lost her textbook before the exam.", "choice1": "She studied extra hard last night.", "choice2": "She struggled to answer the questions.", "question": "effect", "label": 1}
+{"premise": "The chef ran out of eggs while baking cookies.", "choice1": "He added more sugar to the recipe.", "choice2": "He went to the store to buy more eggs.", "question": "cause", "label": 1}
+{"premise": "The artist started painting a new mural.", "choice1": "She ran out of paint.", "choice2": "She had a vision of the design.", "question": "cause", "label": 1}
+{"premise": "The car skidded on the wet road.", "choice1": "The driver turned the steering wheel.", "choice2": "It was raining heavily.", "question": "effect", "label": 1}
+{"premise": "The chef added salt to the dish.", "choice1": "It became more flavorful.", "choice2": "It was served cold.", "question": "effect", "label": 0}
+{"premise": "The student studied all night for the exam.", "choice1": "He felt rested in the morning.", "choice2": "He performed well on the test.", "question": "effect", "label": 1}
+{"premise": "The gardener planted tulip bulbs in the fall.", "choice1": "They will bloom in spring.", "choice2": "They will die before summer.", "question": "effect", "label": 0}
+{"premise": "The athlete trained for months before the big race.", "choice1": "She achieved her personal best.", "choice2": "She became exhausted after training.", "question": "effect", "label": 0}
+{"premise": "The storm caused significant damage to the city.", "choice1": "Residents felt unsafe during the night.", "choice2": "The city organized a festival.", "question": "effect", "label": 0}
+{"premise": "The teacher assigned homework on the weekend.", "choice1": "Students completed their projects early.", "choice2": "Some students complained about it.", "question": "effect", "label": 1}
+{"premise": "The chef decided to use fresh ingredients.", "choice1": "The dish tasted better than usual.", "choice2": "The kitchen became a mess.", "question": "effect", "label": 0}
+{"premise": "The child played outside all day in the sun.", "choice1": "She got a sunburn.", "choice2": "She felt more tired than usual.", "question": "effect", "label": 0}
+{"premise": "The sun rose over the horizon.", "choice1": "The sky became bright.", "choice2": "The temperature dropped.", "question": "effect", "label": 0}
+{"premise": "The chef added spices to the dish.", "choice1": "The dish tasted better.", "choice2": "The dish became cold.", "question": "effect", "label": 0}
+{"premise": "The man forgot to water the plants.", "choice1": "The plants thrived.", "choice2": "The plants wilted.", "question": "effect", "label": 1}
+{"premise": "The children played outside in the rain.", "choice1": "They got wet.", "choice2": "They stayed dry.", "question": "effect", "label": 0}
+{"premise": "She studied hard for the exam.", "choice1": "She passed with flying colors.", "choice2": "She felt tired.", "question": "cause", "label": 0}
+{"premise": "The child planted seeds in the garden.", "choice1": "The flowers began to bloom.", "choice2": "The child forgot to water them.", "question": "effect", "label": 0}
+{"premise": "The teacher graded the exams.", "choice1": "The students were anxious to see their scores.", "choice2": "The classroom became very quiet.", "question": "effect", "label": 1}
+{"premise": "The dog barked loudly at the stranger.", "choice1": "The stranger decided to leave.", "choice2": "The dog got a treat.", "question": "effect", "label": 0}
+{"premise": "She studied hard for her exam.", "choice1": "She passed with flying colors.", "choice2": "She lost her study materials.", "question": "cause", "label": 0}
+{"premise": "The storm knocked out the power.", "choice1": "The residents got flashlights.", "choice2": "The streets were flooded.", "question": "effect", "label": 1}
+{"premise": "The chef prepared a large meal for the guests.", "choice1": "The guests felt satisfied after eating.", "choice2": "The guests complained about the service.", "question": "effect", "label": 0}
+{"premise": "The dog barked loudly at the stranger.", "choice1": "The stranger walked by without acknowledging.", "choice2": "The stranger stopped to pet the dog.", "question": "effect", "label": 1}
+{"premise": "The child studied hard for the math test.", "choice1": "The child wanted to impress the teacher.", "choice2": "The child didn't care about the subject.", "question": "cause", "label": 0}
+{"premise": "The car engine started to make a strange noise.", "choice1": "The owner decided to take it to a mechanic.", "choice2": "The owner felt it was working fine.", "question": "effect", "label": 0}
+{"premise": "The team practiced every day for weeks.", "choice1": "They were determined to win the championship.", "choice2": "They didn't want to lose.", "question": "cause", "label": 0}
+{"premise": "The dog barked loudly at the stranger.", "choice1": "The stranger left the property.", "choice2": "The dog silenced immediately.", "question": "effect", "label": 0}
+{"premise": "The chef prepared dinner with fresh ingredients.", "choice1": "The meal was delicious.", "choice2": "The chef was tired after the meal.", "question": "effect", "label": 0}
+{"premise": "The car ran out of gas on the highway.", "choice1": "The driver called for a tow truck.", "choice2": "The driver filled the tank before starting.", "question": "cause", "label": 0}
+{"premise": "The storm caused a power outage in the area.", "choice1": "Residents bought candles for light.", "choice2": "The storm cleared the skies.", "question": "effect", "label": 0}
+{"premise": "The athlete trained rigorously for the marathon.", "choice1": "She finished the race in record time.", "choice2": "She felt exhausted after the run.", "question": "effect", "label": 0}
+{"premise": "The children played outside all afternoon.", "choice1": "They didn't want to get sunburned.", "choice2": "They enjoyed the sunny weather.", "question": "effect", "label": 1}
+{"premise": "The chef forgot to turn off the oven.", "choice1": "The kitchen filled with smoke.", "choice2": "The meal was perfectly cooked.", "question": "effect", "label": 0}
+{"premise": "The athlete trained hard every day.", "choice1": "She won the gold medal at the Olympics.", "choice2": "She decided to quit sports altogether.", "question": "cause", "label": 0}
+{"premise": "The artist painted a large mural.", "choice1": "The community celebrated the new artwork.", "choice2": "The mural faded quickly in the sun.", "question": "effect", "label": 1}
+{"premise": "The scientist conducted an experiment with chemicals.", "choice1": "He discovered a new reaction.", "choice2": "The chemicals were too unstable to use.", "question": "effect", "label": 0}
+{"premise": "The children built a snowman.", "choice1": "They played outside all day.", "choice2": "It started to snow heavily.", "question": "effect", "label": 0}
+{"premise": "The plant received too much sunlight.", "choice1": "It grew taller than expected.", "choice2": "Its leaves started to wilt.", "question": "effect", "label": 1}
+{"premise": "She studied all night for the exam.", "choice1": "She felt exhausted the next day.", "choice2": "She decided to skip breakfast.", "question": "effect", "label": 0}
+{"premise": "The dog barked loudly at the intruder.", "choice1": "The owner was not home.", "choice2": "The intruder left quickly.", "question": "effect", "label": 1}
+{"premise": "He saved money for years.", "choice1": "He bought a new car.", "choice2": "He planned a vacation.", "question": "effect", "label": 0}
+{"premise": "The cat knocked over the vase.", "choice1": "The floor got wet.", "choice2": "The cat was punished.", "question": "effect", "label": 0}
+{"premise": "She forgot her umbrella on a rainy day.", "choice1": "She got soaked.", "choice2": "She took a nap.", "question": "effect", "label": 0}
+{"premise": "He practiced daily on the piano.", "choice1": "He lost interest in music.", "choice2": "He became a skilled musician.", "question": "effect", "label": 1}
+{"premise": "The sun set over the horizon.", "choice1": "It became dark outside.", "choice2": "It started to rain.", "question": "effect", "label": 0}
+{"premise": "They planted seeds in the garden.", "choice1": "Flowers bloomed in spring.", "choice2": "It rained heavily.", "question": "cause", "label": 0}
+{"premise": "The car accelerated quickly down the street.", "choice1": "The driver stepped on the gas pedal.", "choice2": "The car ran out of fuel.", "question": "cause", "label": 0}
+{"premise": "The child watered the plant every day.", "choice1": "The plant grew taller.", "choice2": "The plant withered away.", "question": "effect", "label": 0}
+{"premise": "The sun is shining brightly today.", "choice1": "It will rain later.", "choice2": "The park is crowded with people.", "question": "effect", "label": 1}
+{"premise": "The athlete trained diligently for months.", "choice1": "He won the competition.", "choice2": "He decided to quit the sport.", "question": "effect", "label": 0}
+{"premise": "The soil was rich in nutrients.", "choice1": "The crops produced a plentiful harvest.", "choice2": "The crops failed to grow at all.", "question": "cause", "label": 0}
+{"premise": "The chef started cooking dinner.", "choice1": "He ran out of ingredients.", "choice2": "He wanted to impress his guests.", "question": "cause", "label": 1}
+{"premise": "The student studied hard for the exam.", "choice1": "They felt confident about their knowledge.", "choice2": "They were distracted by their phone.", "question": "effect", "label": 0}
+{"premise": "The dog barked loudly at the mailman.", "choice1": "The mailman delivered a package.", "choice2": "The dog was startled by a squirrel.", "question": "cause", "label": 0}
+{"premise": "The flowers in the garden bloomed beautifully.", "choice1": "The gardener watered them regularly.", "choice2": "It rained heavily last night.", "question": "cause", "label": 0}
+{"premise": "The athlete broke the world record.", "choice1": "He trained rigorously for months.", "choice2": "He felt sick during the competition.", "question": "effect", "label": 0}
+{"premise": "The storm knocked out the power.", "choice1": "People used candles for light.", "choice2": "The sun came out again.", "question": "effect", "label": 0}
+{"premise": "The chef burned the roast.", "choice1": "The dinner guests were upset.", "choice2": "The roast had a smoky flavor.", "question": "effect", "label": 0}
+{"premise": "The soccer player scored a penalty.", "choice1": "The team celebrated the victory.", "choice2": "The opposing team was frustrated.", "question": "effect", "label": 1}
+{"premise": "She forgot her umbrella.", "choice1": "She arrived home wet.", "choice2": "She bought a new umbrella.", "question": "effect", "label": 0}
+{"premise": "The scientist conducted an experiment.", "choice1": "She gathered data for her research.", "choice2": "The experiment failed immediately.", "question": "cause", "label": 0}
+{"premise": "The storm caused significant damage to the town.", "choice1": "Residents had to evacuate their homes.", "choice2": "The streets were filled with fallen trees.", "question": "effect", "label": 1}
+{"premise": "She trained rigorously for the marathon.", "choice1": "She felt exhausted after completing it.", "choice2": "She won first place in the race.", "question": "effect", "label": 1}
+{"premise": "The chef prepared a new dish for the menu.", "choice1": "The restaurant received negative reviews.", "choice2": "The customers loved the new flavor combinations.", "question": "effect", "label": 1}
+{"premise": "He forgot to take his umbrella on a rainy day.", "choice1": "He arrived at work completely dry.", "choice2": "He got soaked while walking to his car.", "question": "effect", "label": 1}
+{"premise": "The teacher assigned a challenging project.", "choice1": "The students complained about the workload.", "choice2": "The students excelled in their presentations.", "question": "effect", "label": 1}
+{"premise": "The child spilled juice on the carpet.", "choice1": "The carpet became stained.", "choice2": "The child was scolded.", "question": "effect", "label": 0}
+{"premise": "The athlete trained rigorously for months.", "choice1": "The athlete won the championship.", "choice2": "The athlete broke his leg.", "question": "effect", "label": 0}
+{"premise": "The storm caused power outages in the city.", "choice1": "Residents had to use candles and flashlights.", "choice2": "Residents celebrated the holiday.", "question": "effect", "label": 0}
+{"premise": "She planted seeds in her garden.", "choice1": "Flowers began to bloom weeks later.", "choice2": "She decided to paint her house.", "question": "effect", "label": 0}
+{"premise": "The chef prepared a gourmet meal.", "choice1": "Customers left glowing reviews.", "choice2": "The kitchen ran out of supplies.", "question": "effect", "label": 0}
+{"premise": "She studied for weeks before the exam.", "choice1": "She received a high score on the test.", "choice2": "She forgot the material she learned.", "question": "effect", "label": 0}
+{"premise": "The leaves changed color in the fall.", "choice1": "It became colder outside.", "choice2": "The flowers started to bloom.", "question": "effect", "label": 0}
+{"premise": "He decided to take the morning train.", "choice1": "He arrived at his meeting early.", "choice2": "He missed his appointment entirely.", "question": "effect", "label": 0}
+{"premise": "The children played outside all day.", "choice1": "They were too tired to eat dinner.", "choice2": "They became very hungry and asked for snacks.", "question": "effect", "label": 0}
+{"premise": "The storm knocked out the power.", "choice1": "The refrigerator stopped working.", "choice2": "Everyone celebrated the holiday.", "question": "effect", "label": 0}
+{"premise": "The chef prepared a delicious meal.", "choice1": "The customers left happy.", "choice2": "The kitchen burned down.", "question": "effect", "label": 0}
+{"premise": "The storm caused widespread damage.", "choice1": "Many trees were uprooted.", "choice2": "There was clear blue sky afterwards.", "question": "effect", "label": 0}
+{"premise": "The student studied late into the night.", "choice1": "He woke up refreshed the next morning.", "choice2": "He aced the exam.", "question": "effect", "label": 1}
+{"premise": "The sun rose over the horizon.", "choice1": "The birds started to sing.", "choice2": "The sky turned dark again.", "question": "cause", "label": 0}
+{"premise": "The dog barked loudly at the stranger.", "choice1": "The stranger ran away.", "choice2": "The dog fell asleep.", "question": "effect", "label": 0}
+{"premise": "The chef prepared a lavish meal for the guests.", "choice1": "The guests left feeling satisfied.", "choice2": "The chef burned the food.", "question": "effect", "label": 0}
+{"premise": "The dog found an abandoned puppy in the park.", "choice1": "The puppy was taken to the vet.", "choice2": "The dog ignored the puppy.", "question": "cause", "label": 0}
+{"premise": "She studied late into the night for her exam.", "choice1": "She forgot to set her alarm.", "choice2": "She performed well on the exam.", "question": "effect", "label": 1}
+{"premise": "The garden was neglected for several months.", "choice1": "Weeds started to overtake the flowers.", "choice2": "New plants were planted.", "question": "effect", "label": 0}
+{"premise": "He submitted his application for the job last week.", "choice1": "He received an interview invitation.", "choice2": "He forgot to include his resume.", "question": "effect", "label": 1}
+{"premise": "The toddler spilled juice on the carpet.", "choice1": "The parents quickly grabbed a towel.", "choice2": "The carpet became stained permanently.", "question": "effect", "label": 0}
+{"premise": "The chef added more spices to the dish.", "choice1": "The meal became more flavorful.", "choice2": "The chef burned his hand on the stove.", "question": "effect", "label": 0}
+{"premise": "The rain started unexpectedly during the picnic.", "choice1": "Everyone hurried to their cars.", "choice2": "The picnic continued as planned.", "question": "effect", "label": 0}
+{"premise": "The athlete trained rigorously every day.", "choice1": "She won the gold medal.", "choice2": "She decided to retire early.", "question": "effect", "label": 0}
+{"premise": "The teacher assigned extra homework for the week.", "choice1": "The students protested loudly.", "choice2": "The students studied diligently.", "question": "effect", "label": 0}
+{"premise": "The rain started pouring heavily.", "choice1": "The streets flooded quickly.", "choice2": "People began to carry umbrellas.", "question": "effect", "label": 0}
+{"premise": "The chef burnt the roast.", "choice1": "The smoke detector went off.", "choice2": "The guests applauded his cooking.", "question": "effect", "label": 0}
+{"premise": "She studied all night for the exam.", "choice1": "She felt very confident afterward.", "choice2": "She decided to skip the exam.", "question": "effect", "label": 0}
+{"premise": "The old tree fell during the storm.", "choice1": "A new park was created in its place.", "choice2": "The nearby houses were damaged.", "question": "effect", "label": 1}
+{"premise": "He trained hard every day.", "choice1": "He won the championship.", "choice2": "He took a break from sports.", "question": "cause", "label": 0}
+{"premise": "The gardener watered the plants in the morning.", "choice1": "The plants started to wilt.", "choice2": "The plants grew taller.", "question": "effect", "label": 1}
+{"premise": "The child jumped into the puddle.", "choice1": "The floor got wet.", "choice2": "The child landed safely.", "question": "effect", "label": 0}
+{"premise": "The chef added salt to the soup.", "choice1": "The soup became bland.", "choice2": "The flavor improved.", "question": "effect", "label": 1}
+{"premise": "The thunderstorm caused the power outage.", "choice1": "People used candles for light.", "choice2": "The sun shone brightly.", "question": "effect", "label": 0}
+{"premise": "The dog barked loudly at the stranger.", "choice1": "The stranger ignored the dog.", "choice2": "The stranger left the yard quickly.", "question": "effect", "label": 1}
+{"premise": "The storm knocked down the power lines.", "choice1": "The neighborhood experienced a blackout.", "choice2": "The storm was unexpected.", "question": "effect", "label": 0}
+{"premise": "The student studied diligently for the exam.", "choice1": "He felt confident on test day.", "choice2": "He forgot to set his alarm.", "question": "cause", "label": 0}
+{"premise": "The dog barked loudly at the stranger.", "choice1": "The stranger walked away quickly.", "choice2": "The dog was barking at a squirrel.", "question": "effect", "label": 1}
+{"premise": "She baked a cake for her friend's birthday.", "choice1": "Everyone enjoyed the party.", "choice2": "The party was canceled.", "question": "cause", "label": 0}
+{"premise": "The athlete trained every day for the competition.", "choice1": "She won a medal.", "choice2": "She received a participation trophy.", "question": "effect", "label": 0}
+{"premise": "The storm knocked down several trees in the neighborhood.", "choice1": "Residents cleaned up the debris.", "choice2": "Power lines were damaged.", "question": "effect", "label": 1}
+{"premise": "The chef used fresh ingredients for the dish.", "choice1": "The meal was healthier.", "choice2": "The kitchen was well-organized.", "question": "effect", "label": 0}
+{"premise": "The athlete trained hard every day.", "choice1": "She won a gold medal.", "choice2": "She joined a new team.", "question": "cause", "label": 0}
+{"premise": "The meeting was called to discuss budget cuts.", "choice1": "Everyone left feeling confused.", "choice2": "The project timelines were adjusted.", "question": "effect", "label": 1}
+{"premise": "The library expanded its collection of books.", "choice1": "More students visited the library.", "choice2": "The librarian held a book fair.", "question": "effect", "label": 0}
+{"premise": "The chef forgot to add salt to the recipe.", "choice1": "The dish tasted bland.", "choice2": "The chef was praised for his cooking skills.", "question": "effect", "label": 0}
+{"premise": "The plants received too much sunlight during the summer.", "choice1": "They grew taller and greener.", "choice2": "They started wilting and turning brown.", "question": "effect", "label": 1}
+{"premise": "The dog barked loudly at the mailman.", "choice1": "The mailman dropped the package.", "choice2": "The dog scared the mailman away.", "question": "effect", "label": 1}
+{"premise": "The scientist conducted an experiment with the new chemical.", "choice1": "They published the results in a journal.", "choice2": "They accidentally spilled it on the floor.", "question": "cause", "label": 0}
+{"premise": "The sun set behind the mountains.", "choice1": "The sky turned orange and pink.", "choice2": "The stars began to twinkle.", "question": "effect", "label": 0}
+{"premise": "The storm knocked out the power lines.", "choice1": "People used candles for light.", "choice2": "People felt warm and cozy.", "question": "effect", "label": 0}
+{"premise": "The chef added spices to the dish.", "choice1": "The dish tasted bland.", "choice2": "The dish became more flavorful.", "question": "effect", "label": 1}
+{"premise": "The athlete trained every day.", "choice1": "The athlete won a championship.", "choice2": "The athlete felt tired after training.", "question": "cause", "label": 0}
+{"premise": "The tree lost its leaves in winter.", "choice1": "The tree grew taller in spring.", "choice2": "The tree became bare.", "question": "effect", "label": 1}
+{"premise": "She studied late into the night.", "choice1": "She felt more confident about the exam.", "choice2": "She forgot all the material.", "question": "cause", "label": 0}
+{"premise": "The sun began to set.", "choice1": "The sky turned orange and pink.", "choice2": "People started leaving the beach.", "question": "effect", "label": 0}
+{"premise": "The dog barked loudly.", "choice1": "It saw a stranger outside.", "choice2": "It was hungry for food.", "question": "cause", "label": 0}
+{"premise": "The ground shook.", "choice1": "There was an earthquake.", "choice2": "The wind began to blow.", "question": "cause", "label": 0}
+{"premise": "The cake was delicious.", "choice1": "Everyone asked for the recipe.", "choice2": "It was baked with chocolate.", "question": "effect", "label": 0}
+{"premise": "She studied hard for the exam.", "choice1": "She passed with flying colors.", "choice2": "She took a break before the test.", "question": "effect", "label": 0}
+{"premise": "The gardener watered the plants.", "choice1": "The plants grew bigger.", "choice2": "The plants wilted away.", "question": "effect", "label": 0}
+{"premise": "The cat chased the mouse under the couch.", "choice1": "The mouse escaped through the window.", "choice2": "The cat knocked over a flower pot.", "question": "effect", "label": 1}
+{"premise": "The runner trained for the marathon every day.", "choice1": "The runner felt exhausted on race day.", "choice2": "The runner performed well in the marathon.", "question": "effect", "label": 1}
+{"premise": "The chef added spices to the stew.", "choice1": "The stew became bland.", "choice2": "The stew had a rich flavor.", "question": "effect", "label": 0}
+{"premise": "The children built a sandcastle at the beach.", "choice1": "The tide washed it away.", "choice2": "The sandcastle became the biggest in the area.", "question": "effect", "label": 1}
+{"premise": "The gardener watered the plants.", "choice1": "The plants grew healthier.", "choice2": "The gardener took a break.", "question": "effect", "label": 0}
+{"premise": "The chef added salt to the soup.", "choice1": "The soup tasted better.", "choice2": "The chef chopped vegetables.", "question": "effect", "label": 0}
+{"premise": "The dog barked loudly.", "choice1": "The neighbors complained.", "choice2": "The dog was happy.", "question": "effect", "label": 0}
+{"premise": "She studied for weeks before the exam.", "choice1": "She felt confident on the test day.", "choice2": "She forgot her study materials.", "question": "effect", "label": 0}
+{"premise": "The sun began to set.", "choice1": "The sky turned orange.", "choice2": "The stars started to appear.", "question": "effect", "label": 1}
+{"premise": "The cat knocked over the vase on the table.", "choice1": "The owner scolded the cat.", "choice2": "The vase shattered into pieces.", "question": "effect", "label": 1}
+{"premise": "The teacher assigned extra homework to the class.", "choice1": "The students complained about it.", "choice2": "The students completed their assignments on time.", "question": "effect", "label": 0}
+{"premise": "The chef added more garlic to the sauce.", "choice1": "The sauce became more flavorful.", "choice2": "The chef ran out of ingredients.", "question": "effect", "label": 0}
+{"premise": "The athlete trained intensely for months.", "choice1": "She won the championship.", "choice2": "She decided to take a break.", "question": "effect", "label": 0}
+{"premise": "The storm caused a power outage in the area.", "choice1": "Residents lit candles for light.", "choice2": "Residents enjoyed a picnic outside.", "question": "effect", "label": 0}
+{"premise": "The chef prepared a special dish for the customers.", "choice1": "The customers were excited to try the new dish.", "choice2": "The chef wanted to impress the customers.", "question": "effect", "label": 0}
+{"premise": "The car ran out of gas on the highway.", "choice1": "The driver called for a tow truck.", "choice2": "The driver decided to walk for help.", "question": "effect", "label": 1}
+{"premise": "The teacher assigned a group project to the students.", "choice1": "The students took their time to finish it.", "choice2": "The students learned to work together.", "question": "effect", "label": 1}
+{"premise": "The gardener watered the plants in the afternoon.", "choice1": "The plants grew healthier as a result.", "choice2": "The gardener wanted to see flowers bloom.", "question": "effect", "label": 0}
+{"premise": "The scientist conducted an experiment in the lab.", "choice1": "She made a groundbreaking discovery.", "choice2": "She wrote a report on the findings.", "question": "cause", "label": 1}
+{"premise": "The dog barked loudly at the stranger.", "choice1": "The stranger was scared and ran away.", "choice2": "The dog wanted to play fetch.", "question": "effect", "label": 0}
+{"premise": "The chef prepared a gourmet meal.", "choice1": "The restaurant received more customers.", "choice2": "The food was burnt and inedible.", "question": "effect", "label": 0}
+{"premise": "The athlete trained every day for the marathon.", "choice1": "She felt exhausted before the race.", "choice2": "She improved her stamina significantly.", "question": "effect", "label": 1}
+{"premise": "The children built a snowman in the yard.", "choice1": "They were excited about the snowfall.", "choice2": "They forgot to wear their jackets.", "question": "cause", "label": 0}
+{"premise": "The artist painted a stunning mural on the wall.", "choice1": "Many people admired her work.", "choice2": "The room became very dark and gloomy.", "question": "effect", "label": 0}
+{"premise": "The gardener planted new flowers in the backyard.", "choice1": "The flowers started to bloom in spring.", "choice2": "The weeds took over the garden.", "question": "effect", "label": 0}
+{"premise": "The dog barked loudly throughout the night.", "choice1": "It wanted to play outside.", "choice2": "It sensed a stranger nearby.", "question": "cause", "label": 1}
+{"premise": "The car ran out of gas on the highway.", "choice1": "We pulled over to the side.", "choice2": "We quickly filled the tank at a nearby station.", "question": "effect", "label": 0}
+{"premise": "The chef added salt to the soup.", "choice1": "The flavors became more pronounced.", "choice2": "The soup boiled over.", "question": "effect", "label": 0}
+{"premise": "The sun began to set behind the hills.", "choice1": "The stars started to twinkle in the sky.", "choice2": "The temperature dropped significantly.", "question": "effect", "label": 1}
+{"premise": "The temperature dropped significantly overnight.", "choice1": "People wore warmer clothes in the morning.", "choice2": "Plants started to wilt from the cold.", "question": "effect", "label": 0}
+{"premise": "The child spilled juice on the floor.", "choice1": "The dog licked it up.", "choice2": "The child got a paper towel.", "question": "effect", "label": 0}
+{"premise": "The storm caused major power outages.", "choice1": "Residents reported the outages to the local utility.", "choice2": "The utility company sent a repair crew to fix the lines.", "question": "cause", "label": 1}
+{"premise": "The artist painted a large mural.", "choice1": "The community held an art festival.", "choice2": "More people visited the area to see the mural.", "question": "effect", "label": 1}
+{"premise": "The clock struck midnight.", "choice1": "It signaled the end of the party.", "choice2": "Everyone started to cheer and celebrate.", "question": "effect", "label": 0}
+{"premise": "The coffee shop ran out of supplies.", "choice1": "Customers were unhappy with their orders.", "choice2": "The shop received a new shipment of coffee beans.", "question": "effect", "label": 0}
+{"premise": "The marathon was canceled due to weather conditions.", "choice1": "Runners were disappointed.", "choice2": "More participants signed up next year.", "question": "effect", "label": 0}
+{"premise": "The teacher assigned extra homework.", "choice1": "Students studied harder for the test.", "choice2": "Students complained about the workload.", "question": "cause", "label": 0}
+{"premise": "The gardener watered the plants daily.", "choice1": "The flowers bloomed beautifully.", "choice2": "The soil dried out quickly.", "question": "effect", "label": 0}
+{"premise": "The chef forgot to add salt to the dish.", "choice1": "The dish tasted bland.", "choice2": "The customers praised the restaurant.", "question": "effect", "label": 0}
+{"premise": "The chef decided to use fresh ingredients for the dish.", "choice1": "The meal tasted exceptional and delighted the customers.", "choice2": "The dish took longer to prepare than usual.", "question": "effect", "label": 0}
+{"premise": "The gardener planted new flowers in the spring.", "choice1": "The flowers bloomed beautifully in the summer.", "choice2": "The gardener had to water them daily.", "question": "effect", "label": 0}
+{"premise": "The teacher assigned extra homework to the class.", "choice1": "The students complained about their workload.", "choice2": "The students excelled in their final exams.", "question": "effect", "label": 1}
+{"premise": "The construction crew fixed the faulty wiring in the building.", "choice1": "The residents started to feel safer.", "choice2": "The wiring issue became more complicated.", "question": "effect", "label": 0}
+{"premise": "The dog barked loudly when the mailman arrived.", "choice1": "The mailman delivered the package.", "choice2": "The dog scared the mailman away.", "question": "effect", "label": 1}
+{"premise": "The garden was filled with flowers.", "choice1": "The gardener watered the plants.", "choice2": "The flowers started to wilt.", "question": "effect", "label": 0}
+{"premise": "The athlete trained every day for the competition.", "choice1": "The athlete won a gold medal.", "choice2": "The athlete decided to take a break.", "question": "effect", "label": 0}
+{"premise": "The storm knocked out the power in the neighborhood.", "choice1": "Residents lit candles for light.", "choice2": "Residents complained about the weather.", "question": "effect", "label": 0}
+{"premise": "The children were excited about the field trip.", "choice1": "They packed their lunch boxes.", "choice2": "They stayed home and watched television.", "question": "cause", "label": 0}
+{"premise": "The mountain trails were covered in snow.", "choice1": "Hikers were advised to stay indoors.", "choice2": "Skiers flocked to the slopes.", "question": "effect", "label": 1}
+{"premise": "The gardener watered the plants regularly.", "choice1": "The plants grew healthier and taller.", "choice2": "The plants wilted and dried out.", "question": "effect", "label": 0}
+{"premise": "The athlete trained every day before the competition.", "choice1": "The athlete won the gold medal.", "choice2": "The athlete felt exhausted and quit.", "question": "effect", "label": 0}
+{"premise": "The chef tried a new recipe for dessert.", "choice1": "The customers loved the dessert.", "choice2": "The customers did not order dessert.", "question": "effect", "label": 0}
+{"premise": "The teacher assigned a challenging project to the class.", "choice1": "The students collaborated and learned from each other.", "choice2": "The students complained about the workload.", "question": "effect", "label": 0}
+{"premise": "The rain caused the river to overflow.", "choice1": "People evacuated the area to stay safe.", "choice2": "People celebrated by going for a swim.", "question": "effect", "label": 0}
+{"premise": "The sun rose early that morning.", "choice1": "The birds began to sing.", "choice2": "The stars were still visible.", "question": "effect", "label": 0}
+{"premise": "She studied diligently for the exam.", "choice1": "She felt prepared and confident.", "choice2": "She decided to skip the exam.", "question": "effect", "label": 0}
+{"premise": "The storm caused widespread damage.", "choice1": "Residents were forced to evacuate.", "choice2": "The weather remained calm.", "question": "cause", "label": 0}
+{"premise": "The athlete won the trophy.", "choice1": "He trained rigorously for months.", "choice2": "He didn't practice at all.", "question": "effect", "label": 0}
+{"premise": "The garden received plenty of rain.", "choice1": "The flowers bloomed beautifully.", "choice2": "The plants withered away.", "question": "effect", "label": 0}
+{"premise": "The child planted a seed in the garden.", "choice1": "A flower began to grow.", "choice2": "The soil became hard.", "question": "effect", "label": 0}
+{"premise": "The chef added spices to the dish.", "choice1": "The dish tasted bland.", "choice2": "The dish became more flavorful.", "question": "effect", "label": 1}
+{"premise": "The athlete trained rigorously for months.", "choice1": "He decided to take a break.", "choice2": "He won the championship.", "question": "effect", "label": 1}
+{"premise": "The sun set behind the mountains.", "choice1": "The sky turned orange.", "choice2": "The stars started to disappear.", "question": "effect", "label": 0}
+{"premise": "She practiced her speech every day.", "choice1": "She felt unprepared.", "choice2": "She gained confidence.", "question": "effect", "label": 1}
+{"premise": "The chef prepared a new recipe for dinner.", "choice1": "The guests enjoyed a delicious meal.", "choice2": "The chef forgot the ingredients.", "question": "effect", "label": 0}
+{"premise": "The team practiced tirelessly for the tournament.", "choice1": "They lost every game they played.", "choice2": "They were well-prepared to compete.", "question": "effect", "label": 1}
+{"premise": "The heavy rain damaged the roads.", "choice1": "Driving became more difficult.", "choice2": "The sun shone brighter the next day.", "question": "effect", "label": 0}
+{"premise": "The students studied late into the night.", "choice1": "They all passed their exams with flying colors.", "choice2": "They were tired the next morning.", "question": "cause", "label": 0}
+{"premise": "The car engine made a strange noise.", "choice1": "It needed an oil change.", "choice2": "It was running perfectly fine.", "question": "cause", "label": 0}
+{"premise": "The road was covered in fallen leaves.", "choice1": "It was autumn.", "choice2": "People were walking their dogs.", "question": "cause", "label": 0}
+{"premise": "The cat knocked over the glass of water.", "choice1": "The dog barked loudly.", "choice2": "The table was wobbly.", "question": "cause", "label": 1}
+{"premise": "She forgot her umbrella before leaving the house.", "choice1": "She got soaked in the rain.", "choice2": "She noticed the sunlight outside.", "question": "effect", "label": 0}
+{"premise": "The students studied for their exams all night.", "choice1": "They felt well-prepared in the morning.", "choice2": "They decided to skip classes.", "question": "effect", "label": 0}
+{"premise": "They were planning a surprise party.", "choice1": "Someone accidentally revealed the secret.", "choice2": "Everyone was excited about the event.", "question": "cause", "label": 0}
+{"premise": "The dog barked loudly at the mailman.", "choice1": "The mailman delivered the letters.", "choice2": "The mailman hurried away.", "question": "effect", "label": 1}
+{"premise": "The chef added spices to the dish.", "choice1": "The dish tasted better.", "choice2": "The dish became colder.", "question": "effect", "label": 0}
+{"premise": "The plants received plenty of sunlight.", "choice1": "The plants grew tall and strong.", "choice2": "The plants wilted quickly.", "question": "effect", "label": 0}
+{"premise": "It started to rain heavily outside.", "choice1": "The streets flooded with water.", "choice2": "The sun came out again.", "question": "effect", "label": 0}
+{"premise": "She studied all night for the exam.", "choice1": "She felt confident about her answers.", "choice2": "She got very little sleep.", "question": "effect", "label": 1}
+{"premise": "The sun rose early in the morning.", "choice1": "The birds began to sing.", "choice2": "The stars disappeared from the sky.", "question": "effect", "label": 0}
+{"premise": "The storm caused a power outage.", "choice1": "People lit candles for light.", "choice2": "The weather became sunny.", "question": "effect", "label": 0}
+{"premise": "The athlete trained daily for the competition.", "choice1": "She won the gold medal.", "choice2": "Her friends cheered for her.", "question": "cause", "label": 1}
+{"premise": "The computer crashed during the update.", "choice1": "The user lost important files.", "choice2": "The software was reinstalled.", "question": "effect", "label": 0}
+{"premise": "The garden flourished with proper care.", "choice1": "The vegetables grew larger.", "choice2": "The flowers wilted quickly.", "question": "effect", "label": 0}
+{"premise": "The sun set behind the mountains.", "choice1": "The sky turned dark and cool.", "choice2": "The stars began to shine brightly.", "question": "effect", "label": 0}
+{"premise": "The storm caused widespread flooding.", "choice1": "Many homes were damaged.", "choice2": "People went to the beach.", "question": "effect", "label": 0}
+{"premise": "She studied hard for her exams.", "choice1": "She felt confident in her knowledge.", "choice2": "She decided to skip school.", "question": "cause", "label": 0}
+{"premise": "The athlete trained every day.", "choice1": "She won the championship.", "choice2": "She lost interest in the sport.", "question": "effect", "label": 0}
+{"premise": "The cake was left in the oven too long.", "choice1": "It became burnt and unusable.", "choice2": "It was enjoyed by everyone.", "question": "effect", "label": 0}
+{"premise": "The gardener watered the plants in the morning.", "choice1": "The plants began to thrive during the summer.", "choice2": "The plants wilted by the afternoon.", "question": "effect", "label": 0}
+{"premise": "The student studied late into the night.", "choice1": "The student forgot to set an alarm.", "choice2": "The student aced the exam the next day.", "question": "effect", "label": 1}
+{"premise": "The cat chased the mouse across the yard.", "choice1": "The mouse escaped into a hole.", "choice2": "The cat became tired and stopped chasing.", "question": "effect", "label": 0}
+{"premise": "The chef prepared a special dish for the evening.", "choice1": "The restaurant became fully booked.", "choice2": "The chef decided to close early.", "question": "effect", "label": 0}
+{"premise": "The athlete trained hard for the marathon.", "choice1": "He felt exhausted afterward.", "choice2": "He won first place in the race.", "question": "effect", "label": 1}
+{"premise": "The dog barked loudly at the stranger.", "choice1": "The stranger walked away.", "choice2": "The stranger approached the dog.", "question": "effect", "label": 0}
+{"premise": "The storm caused the power outage.", "choice1": "People used candles for light.", "choice2": "People went to the store to buy groceries.", "question": "effect", "label": 0}
+{"premise": "The student studied all night for the exam.", "choice1": "They felt prepared when they arrived.", "choice2": "They felt exhausted in the morning.", "question": "cause", "label": 0}
+{"premise": "The car engine overheated.", "choice1": "The driver pulled over to check it.", "choice2": "The car's fuel was low.", "question": "effect", "label": 0}
+{"premise": "The plants received extra sunlight.", "choice1": "They grew taller and healthier.", "choice2": "They needed more water.", "question": "effect", "label": 0}
+{"premise": "The chef burned the cake.", "choice1": "The cake tasted delicious.", "choice2": "The cake was ruined.", "question": "effect", "label": 1}
+{"premise": "The toddler was crying.", "choice1": "The dog barked loudly.", "choice2": "The toddler fell down.", "question": "cause", "label": 1}
+{"premise": "The athlete trained diligently.", "choice1": "He won the championship title.", "choice2": "He stayed home all day.", "question": "effect", "label": 0}
+{"premise": "The rain fell heavily last night.", "choice1": "The ground is wet this morning.", "choice2": "The sky is clear now.", "question": "effect", "label": 0}
+{"premise": "The car ran out of gas.", "choice1": "It broke down on the highway.", "choice2": "The driver filled it up.", "question": "cause", "label": 0}
+{"premise": "The cat chased the laser pointer around the room.", "choice1": "The cat caught the pointer.", "choice2": "The cat became tired quickly.", "question": "effect", "label": 1}
+{"premise": "The chef prepared a beautiful dinner.", "choice1": "The guests were impressed by the meal.", "choice2": "The chef forgot to season the food.", "question": "effect", "label": 0}
+{"premise": "The runner trained for months before the marathon.", "choice1": "The runner gave up halfway through the race.", "choice2": "The runner finished the marathon successfully.", "question": "effect", "label": 1}
+{"premise": "The children played in the park after school.", "choice1": "They were exhausted after running around.", "choice2": "They decided to go home early.", "question": "effect", "label": 0}
+{"premise": "The musician wrote a new song.", "choice1": "The song became very popular.", "choice2": "The musician stopped performing.", "question": "effect", "label": 0}
+{"premise": "The teacher cancelled class due to the weather.", "choice1": "Students were excited to have a break.", "choice2": "Students prepared for the next lesson.", "question": "effect", "label": 0}
+{"premise": "The gardener watered the plants regularly.", "choice1": "The plants started to wilt.", "choice2": "The flowers bloomed beautifully.", "question": "effect", "label": 1}
+{"premise": "The engineer modified the design of the bridge.", "choice1": "The construction process became faster.", "choice2": "The costs increased significantly.", "question": "cause", "label": 0}
+{"premise": "The athlete trained every day for the competition.", "choice1": "She felt more confident in her abilities.", "choice2": "She missed several practices.", "question": "effect", "label": 1}
+{"premise": "The chef received positive reviews for his special dish.", "choice1": "He decided to change the recipe.", "choice2": "He became more popular in the culinary community.", "question": "effect", "label": 1}
+{"premise": "The storm caused heavy flooding in the town.", "choice1": "The residents stayed indoors for safety.", "choice2": "The town saw a sudden increase in tourists.", "question": "effect", "label": 0}
+{"premise": "The chef added too much salt to the dish.", "choice1": "The dish became overly salty.", "choice2": "The customers loved the dish.", "question": "effect", "label": 0}
+{"premise": "The marathon was canceled due to bad weather.", "choice1": "The runners trained for another race.", "choice2": "The runners were disappointed.", "question": "effect", "label": 1}
+{"premise": "The school upgraded its computer lab.", "choice1": "Students learned more effectively.", "choice2": "Students forgot how to use computers.", "question": "effect", "label": 0}
+{"premise": "I turned off my alarm clock after it rang.", "choice1": "I got out of bed right away.", "choice2": "I fell back asleep immediately.", "question": "effect", "label": 1}
+{"premise": "The dog barked at the stranger.", "choice1": "It was scared of the person.", "choice2": "It wanted to play.", "question": "cause", "label": 0}
+{"premise": "The chef burned the steak.", "choice1": "The steak became inedible.", "choice2": "The chef was praised.", "question": "effect", "label": 0}
+{"premise": "The car skidded on the icy road.", "choice1": "The driver lost control.", "choice2": "The road was cleared.", "question": "cause", "label": 0}
+{"premise": "The baby smiled at her mother.", "choice1": "Her mother smiled back.", "choice2": "The baby was hungry.", "question": "effect", "label": 0}
+{"premise": "The flowers wilted in the sun.", "choice1": "They were not watered.", "choice2": "They bloomed beautifully.", "question": "cause", "label": 0}
+{"premise": "The gardener planted new flowers in the spring.", "choice1": "The flowers bloomed beautifully throughout the summer.", "choice2": "The garden became overgrown with weeds.", "question": "effect", "label": 0}
+{"premise": "A chef prepared a special dish for the competition.", "choice1": "The judges were impressed by the flavors.", "choice2": "The chef ran out of ingredients.", "question": "cause", "label": 0}
+{"premise": "The electricity went out during the storm.", "choice1": "The neighbors called the power company to complain.", "choice2": "Everyone lit candles to provide light.", "question": "effect", "label": 1}
+{"premise": "She studied hard for her exams all week.", "choice1": "She felt confident on test day.", "choice2": "She decided to take a break instead.", "question": "effect", "label": 0}
+{"premise": "He reserved a table at the restaurant in advance.", "choice1": "They had to wait for a long time to be seated.", "choice2": "They were served promptly upon arrival.", "question": "effect", "label": 1}
+{"premise": "The team won the championship game.", "choice1": "They practiced every day leading up to the match.", "choice2": "They celebrated their victory with a big party.", "question": "cause", "label": 0}
+{"premise": "The sun set behind the mountains.", "choice1": "The stars began to twinkle in the night sky.", "choice2": "The temperature dropped significantly.", "question": "effect", "label": 1}
+{"premise": "The student studied late into the night.", "choice1": "She was determined to ace the exam.", "choice2": "She felt tired the next morning.", "question": "cause", "label": 0}
+{"premise": "The restaurant received a bad review online.", "choice1": "They decided to change their menu.", "choice2": "They continued their current promotions.", "question": "effect", "label": 0}
+{"premise": "The rain caused a flood in the village.", "choice1": "Many houses were submerged in water.", "choice2": "People enjoyed outdoor picnics.", "question": "effect", "label": 0}
+{"premise": "The garden was overwatered.", "choice1": "The flowers started to droop.", "choice2": "The flowers blossomed beautifully.", "question": "effect", "label": 0}
+{"premise": "He missed the bus.", "choice1": "He arrived late to work.", "choice2": "He decided to walk home.", "question": "cause", "label": 0}
+{"premise": "The cake was left in the oven too long.", "choice1": "It turned out perfectly moist.", "choice2": "It became burnt and inedible.", "question": "effect", "label": 1}
+{"premise": "The team practiced regularly.", "choice1": "They improved their performance.", "choice2": "They lost their coach’s respect.", "question": "effect", "label": 0}
+{"premise": "The library was closed for renovations.", "choice1": "The community hosted a book fair.", "choice2": "Many students had to find new study spots.", "question": "effect", "label": 1}
+{"premise": "The students studied hard for their exams.", "choice1": "They passed with flying colors.", "choice2": "They decided to take a break.", "question": "effect", "label": 0}
+{"premise": "The tree fell during the storm.", "choice1": "It blocked the road.", "choice2": "The storm caused flooding.", "question": "cause", "label": 0}
+{"premise": "She forgot her umbrella before leaving.", "choice1": "She got drenched in the rain.", "choice2": "She arrived at her destination early.", "question": "effect", "label": 0}
+{"premise": "He started exercising regularly.", "choice1": "He lost weight.", "choice2": "He bought new gym shoes.", "question": "effect", "label": 0}
+{"premise": "The chef ran out of ingredients.", "choice1": "She improvised a new recipe.", "choice2": "She called for a grocery delivery.", "question": "cause", "label": 1}
+{"premise": "The chef added more spices to the dish.", "choice1": "The dish became more flavorful.", "choice2": "The chef started cooking.", "question": "effect", "label": 0}
+{"premise": "The dog barked all night long.", "choice1": "The neighbors complained about the noise.", "choice2": "The dog was hungry.", "question": "effect", "label": 0}
+{"premise": "A storm knocked out the power.", "choice1": "Everyone lit candles for light.", "choice2": "The weather became calm again.", "question": "effect", "label": 0}
+{"premise": "The scientist published her findings.", "choice1": "She received greater funding for her research.", "choice2": "More experiments were unnecessary.", "question": "effect", "label": 0}
+{"premise": "The car ran out of gas.", "choice1": "The driver pulled over to the side.", "choice2": "The engine started smoothly.", "question": "cause", "label": 0}
+{"premise": "The teacher assigned a challenging project.", "choice1": "The students felt nervous about their grades.", "choice2": "The students started collaborating more on their work.", "question": "effect", "label": 1}
+{"premise": "The athlete trained for months before the marathon.", "choice1": "She felt unprepared on the day of the race.", "choice2": "She ran a personal best during the competition.", "question": "effect", "label": 1}
+{"premise": "The chef experimented with new ingredients.", "choice1": "The restaurant received rave reviews.", "choice2": "The chef won a cooking competition.", "question": "cause", "label": 0}
+{"premise": "The clouds gathered, blocking the sun.", "choice1": "It started raining heavily soon after.", "choice2": "The temperature rose significantly.", "question": "effect", "label": 0}
+{"premise": "The child lost his favorite toy.", "choice1": "He cried for hours.", "choice2": "He found another toy to play with instead.", "question": "effect", "label": 0}
+{"premise": "The storm knocked down several trees.", "choice1": "The power went out in the neighborhood.", "choice2": "The trees were already weakened by disease.", "question": "effect", "label": 0}
+{"premise": "She studied all night for her exam.", "choice1": "She felt very tired the next day.", "choice2": "She enjoyed the study material.", "question": "effect", "label": 0}
+{"premise": "The gardener watered the plants regularly.", "choice1": "The plants grew strong and healthy.", "choice2": "The gardener bought new seeds.", "question": "effect", "label": 0}
+{"premise": "The chef used fresh ingredients in the recipe.", "choice1": "The dish received rave reviews.", "choice2": "The restaurant was closed temporarily.", "question": "effect", "label": 0}
+{"premise": "He trained rigorously for the marathon.", "choice1": "He decided to run a shorter race instead.", "choice2": "He completed the marathon successfully.", "question": "effect", "label": 1}
+{"premise": "The team practiced for weeks before the championship.", "choice1": "They were exhausted during the match.", "choice2": "They improved their skills significantly.", "question": "effect", "label": 1}
+{"premise": "The sky turned dark and cloudy.", "choice1": "A storm was approaching.", "choice2": "The sun was setting.", "question": "cause", "label": 0}
+{"premise": "She studied hard for her exams.", "choice1": "She was able to relax afterward.", "choice2": "She felt stressed during the tests.", "question": "effect", "label": 0}
+{"premise": "The car ran out of gas.", "choice1": "It sat on the side of the road.", "choice2": "The driver was able to continue driving.", "question": "effect", "label": 0}
+{"premise": "The chef used fresh ingredients.", "choice1": "The dish tasted better.", "choice2": "The restaurant became famous.", "question": "effect", "label": 0}
+{"premise": "The tree lost its leaves in autumn.", "choice1": "The days became shorter.", "choice2": "The weather got warmer.", "question": "effect", "label": 0}
+{"premise": "The chef prepared a delicious meal.", "choice1": "The customers praised the food.", "choice2": "The restaurant was empty.", "question": "effect", "label": 0}
+{"premise": "The sun set behind the mountains.", "choice1": "The sky turned dark.", "choice2": "The stars appeared immediately.", "question": "effect", "label": 0}
+{"premise": "The student studied hard for the exam.", "choice1": "She felt unprepared.", "choice2": "She passed with high marks.", "question": "effect", "label": 1}
+{"premise": "The dog barked loudly at the stranger.", "choice1": "The stranger approached the house.", "choice2": "The owner felt alarmed.", "question": "cause", "label": 1}
+{"premise": "The athlete trained rigorously for months.", "choice1": "He won the gold medal.", "choice2": "He felt very tired.", "question": "effect", "label": 0}
+{"premise": "The lights went out suddenly during the storm.", "choice1": "Everyone panicked in the dark.", "choice2": "The weather cleared up quickly.", "question": "effect", "label": 0}
+{"premise": "The chef added spices to the dish.", "choice1": "The dish became more flavorful.", "choice2": "The dish was served cold.", "question": "effect", "label": 0}
+{"premise": "The child learned to ride a bicycle.", "choice1": "He fell and scraped his knee.", "choice2": "He gained confidence in himself.", "question": "effect", "label": 1}
+{"premise": "The gardener watered the plants every day.", "choice1": "The plants started to wilt.", "choice2": "The plants grew healthy and strong.", "question": "effect", "label": 1}
+{"premise": "The plant wilted.", "choice1": "It received too much water.", "choice2": "It was exposed to too much sunlight.", "question": "cause", "label": 1}
+{"premise": "The athlete won the race.", "choice1": "They trained for many months.", "choice2": "They stumbled at the finish line.", "question": "effect", "label": 0}
+{"premise": "The cake burned in the oven.", "choice1": "The oven was set to a high temperature.", "choice2": "The frosting melted quickly.", "question": "cause", "label": 0}
+{"premise": "The city experienced a power outage.", "choice1": "The weather was unusually mild.", "choice2": "A storm damaged the power lines.", "question": "cause", "label": 1}
+{"premise": "The dog barked loudly.", "choice1": "It was excited to see its owner.", "choice2": "It fell asleep on the couch.", "question": "effect", "label": 0}
+{"premise": "The storm knocked out the power.", "choice1": "The lights went out suddenly.", "choice2": "Everyone stayed indoors voluntarily.", "question": "effect", "label": 0}
+{"premise": "She forgot to water the plants.", "choice1": "The plants started to wilt.", "choice2": "The plants grew taller than ever.", "question": "effect", "label": 0}
+{"premise": "The teacher assigned a difficult project.", "choice1": "The students complained about the workload.", "choice2": "The students organized a group study.", "question": "cause", "label": 1}
+{"premise": "He practiced every day for the race.", "choice1": "He won first place.", "choice2": "He decided to skip the race.", "question": "effect", "label": 0}
+{"premise": "The chef added too much salt to the soup.", "choice1": "The soup became inedible.", "choice2": "The soup was a great success.", "question": "effect", "label": 0}
+{"premise": "The sun set behind the mountains.", "choice1": "The sky became darker.", "choice2": "The stars started to shine.", "question": "effect", "label": 0}
+{"premise": "The chef added spices to the dish.", "choice1": "The dish became more flavorful.", "choice2": "The chef received a compliment.", "question": "effect", "label": 0}
+{"premise": "The children played outdoors all afternoon.", "choice1": "They got sunburned.", "choice2": "They decided to play video games.", "question": "effect", "label": 0}
+{"premise": "The storm damaged the power lines.", "choice1": "The electricity went out.", "choice2": "The neighborhood got flooded.", "question": "effect", "label": 0}
+{"premise": "She studied for the exam all night.", "choice1": "She didn't feel well the next day.", "choice2": "She passed the exam with high marks.", "question": "effect", "label": 1}
+{"premise": "The car skidded on the icy road.", "choice1": "The driver lost control of the vehicle.", "choice2": "The car was parked on the street.", "question": "cause", "label": 0}
+{"premise": "The chef prepared the dish using fresh ingredients.", "choice1": "The dish was praised by the diners.", "choice2": "The restaurant closed early.", "question": "effect", "label": 0}
+{"premise": "The hiker forgot to bring enough water.", "choice1": "They became dehydrated during the trek.", "choice2": "They reached the summit quickly.", "question": "effect", "label": 1}
+{"premise": "The vocalist practiced daily for the concert.", "choice1": "The concert was a huge success.", "choice2": "The tickets sold out quickly.", "question": "effect", "label": 0}
+{"premise": "The storm knocked out the power lines.", "choice1": "People lit candles for light.", "choice2": "The sun came out.", "question": "effect", "label": 0}
+{"premise": "The storm caused the power to go out.", "choice1": "People used candles for light.", "choice2": "People complained about the weather.", "question": "effect", "label": 0}
+{"premise": "The chef set the oven to a high temperature.", "choice1": "The cake baked quickly.", "choice2": "The cake tasted sweet.", "question": "cause", "label": 1}
+{"premise": "The company launched a new marketing campaign.", "choice1": "Sales increased dramatically.", "choice2": "Employees were confused about their roles.", "question": "effect", "label": 0}
+{"premise": "The dog barked loudly at the mailman.", "choice1": "The mailman dropped the package.", "choice2": "The dog got excited.", "question": "cause", "label": 1}
+{"premise": "The student studied for hours before the test.", "choice1": "The student felt prepared.", "choice2": "The student fell asleep in class.", "question": "cause", "label": 0}
+{"premise": "The student studied late into the night.", "choice1": "He wanted to impress his teacher.", "choice2": "He was not prepared for the exam.", "question": "cause", "label": 0}
+{"premise": "The athlete trained rigorously.", "choice1": "He won the championship.", "choice2": "He got injured during practice.", "question": "effect", "label": 0}
+{"premise": "The chef decided to change the menu.", "choice1": "Customers were complaining about the food.", "choice2": "He wanted to experiment with new dishes.", "question": "cause", "label": 1}
+{"premise": "The child played outside in the rain.", "choice1": "He caught a cold.", "choice2": "He enjoyed the weather.", "question": "effect", "label": 0}
+{"premise": "The artist painted every day.", "choice1": "Her work became more recognized.", "choice2": "She lost her passion for art.", "question": "effect", "label": 0}
+{"premise": "The chef forgot to add salt to the soup.", "choice1": "The soup tasted bland.", "choice2": "The soup was spicy.", "question": "effect", "label": 0}
+{"premise": "The child saw a butterfly in the garden.", "choice1": "The child wanted to catch it.", "choice2": "The child started crying.", "question": "cause", "label": 0}
+{"premise": "The athlete trained tirelessly for the marathon.", "choice1": "He felt exhausted after the race.", "choice2": "He won first place.", "question": "effect", "label": 1}
+{"premise": "The storm knocked out the power in the neighborhood.", "choice1": "People used candles for light.", "choice2": "People turned on their computers.", "question": "effect", "label": 0}
+{"premise": "The student studied all night for the exam.", "choice1": "She felt confident going in.", "choice2": "She forgot everything during the test.", "question": "effect", "label": 1}
+{"premise": "The students studied hard for the exam.", "choice1": "They ended up with high grades.", "choice2": "They decided to take the test again next week.", "question": "effect", "label": 0}
+{"premise": "The gardener watered the plants regularly.", "choice1": "The flowers bloomed beautifully.", "choice2": "The weeds grew faster than before.", "question": "effect", "label": 0}
+{"premise": "The chef used fresh ingredients for the dish.", "choice1": "The customers left hungry.", "choice2": "The food received rave reviews.", "question": "effect", "label": 1}
+{"premise": "He practiced every day for the competition.", "choice1": "He won first place in the event.", "choice2": "He forgot the date of the competition.", "question": "effect", "label": 0}
+{"premise": "The children built a treehouse in the backyard.", "choice1": "They spent more time outdoors.", "choice2": "They decided to move to a new house.", "question": "effect", "label": 0}
+{"premise": "The gardener planted new flowers in the yard.", "choice1": "The yard became more colorful.", "choice2": "The gardener watered the old flowers.", "question": "effect", "label": 0}
+{"premise": "The children laughed during the magic show.", "choice1": "The magician performed tricks.", "choice2": "The show ended early.", "question": "cause", "label": 0}
+{"premise": "She studied hard for the exam.", "choice1": "She felt stressed afterwards.", "choice2": "She received a high score.", "question": "effect", "label": 1}
+{"premise": "The cat chased the laser pointer around the room.", "choice1": "The cat got tired quickly.", "choice2": "The cat enjoyed the exercise.", "question": "effect", "label": 1}
+{"premise": "The chef prepared a gourmet meal.", "choice1": "The restaurant gained a five-star rating.", "choice2": "The chef decided to open a new restaurant.", "question": "cause", "label": 0}
+{"premise": "The cat jumped off the table.", "choice1": "It wanted to explore the room.", "choice2": "The table was too high.", "question": "cause", "label": 0}
+{"premise": "The athlete broke the record.", "choice1": "He trained diligently for years.", "choice2": "He lost his last competition.", "question": "effect", "label": 0}
+{"premise": "The gardener watered the plants.", "choice1": "The plants began to flourish.", "choice2": "The plants wilted in the sun.", "question": "effect", "label": 0}
+{"premise": "The student studied late into the night.", "choice1": "He passed the test with flying colors.", "choice2": "He forgot to set his alarm.", "question": "cause", "label": 0}
+{"premise": "The weather forecast predicted rain.", "choice1": "People carried umbrellas.", "choice2": "The streets were crowded.", "question": "effect", "label": 0}
+{"premise": "The toddler threw his toy on the ground.", "choice1": "The toy broke into pieces.", "choice2": "The toddler laughed gleefully.", "question": "effect", "label": 1}
+{"premise": "The chef added salt to the soup.", "choice1": "The soup tasted better.", "choice2": "The chef turned off the stove.", "question": "effect", "label": 0}
+{"premise": "The dog barked loudly outside.", "choice1": "The neighbors got annoyed.", "choice2": "It rained heavily.", "question": "cause", "label": 0}
+{"premise": "She studied late into the night.", "choice1": "She passed the exam effortlessly.", "choice2": "She felt exhausted in the morning.", "question": "effect", "label": 1}
+{"premise": "The car engine started making strange noises.", "choice1": "The fuel was running low.", "choice2": "The mechanic was called for help.", "question": "cause", "label": 0}
