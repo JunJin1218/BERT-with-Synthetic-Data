@@ -228,6 +228,8 @@ def main():
 
     for tdir in task_dirs:
         cases = collect_cases_for_task(tdir)
+        print("="*30)
+        print(tdir)
         if not cases:
             print(f"[INFO] Skip (no results): {tdir}")
             continue
