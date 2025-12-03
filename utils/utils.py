@@ -4,6 +4,24 @@ from omegaconf import DictConfig
 def get_task_name(cfg: DictConfig):
     return f"{cfg.benchmark}-{cfg.task}"
 
+def preprocess_biosses(cfg: DictConfig, examples, tokenizer):
+    """
+    BIOSSES regression preprocessor.
+    Expect keys: sentence1, sentence2, score (float in [0,4]).
+    Returns tokenized features with 'labels' (float) for HF Trainer.
+    """
+    enc = tokenizer(
+        examples["sentence1"],
+        examples["sentence2"],
+        truncation=getattr(cfg, "truncation", True),
+        padding=getattr(cfg, "padding", "max_length"),
+        max_length=getattr(cfg, "max_length", 256),
+    )
+    # HF Trainer expects the target under the key 'labels'
+    # Ensure float dtype; when batched=True, examples["score"] is a list
+    enc["labels"] = [float(x) for x in examples["score"]]
+    return enc
+
 def preprocess_cb(cfg: DictConfig, examples, tokenizer) -> Dict[str, Any]:
     """
     CB (CommitmentBank): premise + hypothesis => 문장쌍 분류
@@ -114,5 +132,7 @@ def preprocess_function(cfg: DictConfig, examples, tokenizer):
         return preprocess_copa(cfg, examples, tokenizer)
     elif task in {"wsc", "wsc.fixed", "wsc-fixed", "wsc_fixed"}:
         return preprocess_wsc(cfg, examples, tokenizer)
+    elif task in {"biosses"}:
+        return preprocess_biosses(cfg, examples, tokenizer)
     else:
         raise ValueError(f"Unsupported task for this split-preprocessor: {task}")

@@ -218,17 +218,20 @@ def _fmt_float(v: Any) -> str:
 
 
 def main():
-    # models/super_glue-* 디렉토리들 순회
+    # models/super_glue-* 또는 biosses 디렉토리들 순회
     task_dirs = sorted(
-        [p for p in ROOT.iterdir() if p.is_dir() and p.name.startswith("super_glue-")]
+        [
+            p for p in ROOT.iterdir()
+            if p.is_dir() and (p.name.startswith("super_glue-") or p.name.startswith("biosses"))
+        ]
     )
     if not task_dirs:
-        print("[WARN] No task directories found under 'models/'. Expected: models/super_glue-{task}")
+        print("[WARN] No task directories found under 'models/'. Expected: models/super_glue-{task} or models/biosses")
         return
 
     for tdir in task_dirs:
         cases = collect_cases_for_task(tdir)
-        print("="*30)
+        print("=" * 30)
         print(tdir)
         if not cases:
             print(f"[INFO] Skip (no results): {tdir}")
@@ -237,9 +240,13 @@ def main():
         # 1) 각 (mode, scale)에 대해 best time 하나씩 고르기
         best_cases = select_best_per_mode_scale(cases)
 
-        # 2) 그 best 들만 가지고 accuracy 기준 rank 매기고 summary 파일 작성
-        out_path = write_summary(tdir, best_cases)
-        print(f"[OK] Wrote summary (accuracy-desc, best per mode/scale): {out_path}")
+        # BIOSSES 여부 판단(회귀: pearson 존재)
+        is_biosses = any(("pearson" in r) for r in best_cases)
+
+        # 2) best 들만 가지고 랭크 매기고 summary 파일 작성
+        out_path = write_summary(tdir, best_cases)  # 내부에서 어떤 메트릭을 쓰든 기존 로직 유지
+        rank_metric_name = "pearson (desc)" if is_biosses else "accuracy (desc)"
+        print(f"[OK] Wrote summary ({rank_metric_name}, best per mode/scale): {out_path}")
 
         # 콘솔 로그:
         print("  Best per mode/scale:")
@@ -249,31 +256,59 @@ def main():
             key=lambda r: (r["mode"], -1 if r["scale"] is None else r["scale"]),
         ):
             time_dir_name = Path(rec["path"]).name  # 마지막 폴더 이름이 time
-            print(
-                f"   - mode={rec['mode']:<9} "
-                f"scale={str(rec['scale']):>4} "
-                f"time={time_dir_name:<15} "
-                f"acc={_fmt_float(rec['accuracy'])} "
-                f"f1={_fmt_float(rec['f1_macro'])} "
-                f"epoch={rec['best_epoch']}"
-            )
 
-        # accuracy 기준 상위 5개 프리뷰 (이미 best만 모아놨으니 사실상 top-5 mode/scale)
-        print("  Top-5 preview (by accuracy, best per mode/scale):")
-        preview = sorted(
-            best_cases,
-            key=lambda x: (x.get("accuracy") is not None, x.get("accuracy") or -1e9),
-            reverse=True,
-        )[:5]
+            if is_biosses:
+                pear = _fmt_float(rec.get("pearson"))
+                spear = _fmt_float(rec.get("spearman"))
+                mse = _fmt_float(rec.get("mse"))
+                print(
+                    f"   - mode={rec['mode']:<9} "
+                    f"scale={str(rec['scale']):>4} "
+                    f"time={time_dir_name:<15} "
+                    f"pearson={pear} "
+                    f"spearman={spear} "
+                    f"mse={mse} "
+                    f"epoch={rec.get('best_epoch')}"
+                )
+            else:
+                acc = _fmt_float(rec.get("accuracy"))
+                f1 = _fmt_float(rec.get("f1_macro"))
+                print(
+                    f"   - mode={rec['mode']:<9} "
+                    f"scale={str(rec['scale']):>4} "
+                    f"time={time_dir_name:<15} "
+                    f"acc={acc} "
+                    f"f1={f1} "
+                    f"epoch={rec.get('best_epoch')}"
+                )
+
+        # Top-5 preview
+        print(f"  Top-5 preview (by {'pearson' if is_biosses else 'accuracy'}, best per mode/scale):")
+        def _rank_key(x):
+            key = x.get("pearson") if is_biosses else x.get("accuracy")
+            return (key is not None, key if key is not None else -1e9)
+
+        preview = sorted(best_cases, key=_rank_key, reverse=True)[:5]
         for i, rec in enumerate(preview, 1):
-            print(
-                f"   {i:>2}. {rec['mode']:<9} "
-                f"scale={str(rec['scale']):>4}  "
-                f"acc={_fmt_float(rec['accuracy'])}  "
-                f"f1={_fmt_float(rec['f1_macro'])}  "
-                f"epoch={rec['best_epoch']}  "
-                f"time={Path(rec['path']).name}"
-            )
+            if is_biosses:
+                print(
+                    f"   {i:>2}. {rec['mode']:<9} "
+                    f"scale={str(rec['scale']):>4}  "
+                    f"pearson={_fmt_float(rec.get('pearson'))}  "
+                    f"spearman={_fmt_float(rec.get('spearman'))}  "
+                    f"mse={_fmt_float(rec.get('mse'))}  "
+                    f"epoch={rec.get('best_epoch')}  "
+                    f"time={Path(rec['path']).name}"
+                )
+            else:
+                print(
+                    f"   {i:>2}. {rec['mode']:<9} "
+                    f"scale={str(rec['scale']):>4}  "
+                    f"acc={_fmt_float(rec.get('accuracy'))}  "
+                    f"f1={_fmt_float(rec.get('f1_macro'))}  "
+                    f"epoch={rec.get('best_epoch')}  "
+                    f"time={Path(rec['path']).name}"
+                )
 
 if __name__ == "__main__":
     main()

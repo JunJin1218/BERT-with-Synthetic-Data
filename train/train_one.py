@@ -7,7 +7,7 @@ import hydra
 from omegaconf import DictConfig, OmegaConf
 from hydra.utils import to_absolute_path
 
-from datasets import load_dataset, DatasetDict, concatenate_datasets
+from datasets import load_dataset, DatasetDict, concatenate_datasets, Value
 from transformers import (
     AutoTokenizer,
     AutoModelForSequenceClassification,
@@ -33,6 +33,10 @@ def data_preprocess(cfg: DictConfig):
 
     # 1) Load original dataset
     raw_datasets = load_dataset(cfg.benchmark, cfg.task)
+    for split, ds in raw_datasets.items():
+        for col in ("span1_index", "span2_index"):
+            if col in ds.column_names:
+                raw_datasets[split] = ds.cast_column(col, Value("int32"))
     original_train = raw_datasets["train"]
     validation_split = raw_datasets["validation"]
     test_split = raw_datasets["test"] if "test" in raw_datasets else None
@@ -56,6 +60,9 @@ def data_preprocess(cfg: DictConfig):
         data_files={"train": synthetic_path},
         split="train",
     )
+    for col in ("span1_index", "span2_index"):
+        if col in synthetic_ds.column_names:
+            synthetic_ds = synthetic_ds.cast_column(col, Value("int32"))
 
     # Cast synthetic label to ClassLabel schema
     original_label_feature = original_train.features["label"]
