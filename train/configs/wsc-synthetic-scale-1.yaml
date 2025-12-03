@@ -5,7 +5,7 @@ task: wsc
 seed: 42
 
 # Data ratio
-data_model: gpt-4o-mini
+data_model: grok-3-mini
 mode: synthetic # original, synthetic, mix
 scale: 1        # n * original data
 
